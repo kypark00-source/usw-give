@@ -1,0 +1,196 @@
+{
+  "선임": [
+    {
+      "name": "이천무",
+      "amount": "5천원",
+      "note": "대외협력팀",
+      "sort_order": 2,
+      "preview_text": "이천무 선임 5천원"
+    }
+  ],
+  "차장": [
+    {
+      "name": "유준일",
+      "amount": "2만원",
+      "note": "총무팀",
+      "sort_order": 3,
+      "preview_text": "유준일 차장 2만원"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "최우중",
+      "amount": "1백만원",
+      "note": "간호학과",
+      "sort_order": 26,
+      "preview_text": "최우중 동문 1백만원"
+    }
+  ],
+  "professor": [
+    {
+      "name": "김영출",
+      "amount": "60만원",
+      "note": "공학대학원",
+      "sort_order": 1,
+      "preview_text": "김영출 교수 60만원"
+    },
+    {
+      "name": "정요안",
+      "amount": "25만원",
+      "note": "소방행정",
+      "sort_order": 5,
+      "preview_text": "정요안 교수 25만원"
+    },
+    {
+      "name": "한경훈",
+      "amount": "6백334천원",
+      "note": "데이터과학부",
+      "sort_order": 6,
+      "preview_text": "한경훈 교수 6백334천원"
+    },
+    {
+      "name": "고승철",
+      "amount": "25만원",
+      "note": "정보보호",
+      "sort_order": 7,
+      "preview_text": "고승철 교수 25만원"
+    },
+    {
+      "name": "유성식",
+      "amount": "4만원",
+      "note": "인성교양대학",
+      "sort_order": 8,
+      "preview_text": "유성식 교수 4만원"
+    },
+    {
+      "name": "정형철",
+      "amount": "120만원",
+      "note": "데이터과학부",
+      "sort_order": 9,
+      "preview_text": "정형철 교수 120만원"
+    },
+    {
+      "name": "권경남",
+      "amount": "1백만원",
+      "note": "건축학",
+      "sort_order": 10,
+      "preview_text": "권경남 교수 1백만원"
+    },
+    {
+      "name": "배애령",
+      "amount": "1백만원",
+      "note": "성악과",
+      "sort_order": 11,
+      "preview_text": "배애령 교수 1백만원"
+    },
+    {
+      "name": "장혜전",
+      "amount": "1백만원",
+      "note": "한국언어문화",
+      "sort_order": 12,
+      "preview_text": "장혜전 교수 1백만원"
+    },
+    {
+      "name": "천세정",
+      "amount": "1백만원",
+      "note": "피아노과",
+      "sort_order": 13,
+      "preview_text": "천세정 교수 1백만원"
+    },
+    {
+      "name": "김근",
+      "amount": "50만원",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 14,
+      "preview_text": "김근 교수 50만원"
+    },
+    {
+      "name": "유성식",
+      "amount": "1백만원",
+      "note": "인성교양대학",
+      "sort_order": 15,
+      "preview_text": "유성식 교수 1백만원"
+    },
+    {
+      "name": "이성주",
+      "amount": "30만원",
+      "note": "피아노과",
+      "sort_order": 16,
+      "preview_text": "이성주 교수 30만원"
+    },
+    {
+      "name": "주정선",
+      "amount": "50만원",
+      "note": "체육교육",
+      "sort_order": 17,
+      "preview_text": "주정선 교수 50만원"
+    },
+    {
+      "name": "이상욱",
+      "amount": "1백만원",
+      "note": "데이터과학부",
+      "sort_order": 18,
+      "preview_text": "이상욱 교수 1백만원"
+    },
+    {
+      "name": "황용득",
+      "amount": "20만원",
+      "note": "데이터과학부",
+      "sort_order": 21,
+      "preview_text": "황용득 교수 20만원"
+    },
+    {
+      "name": "송민규",
+      "amount": "1백만원",
+      "note": "한국언어문화",
+      "sort_order": 22,
+      "preview_text": "송민규 교수 1백만원"
+    },
+    {
+      "name": "박창화",
+      "amount": "150만원",
+      "note": "법무감사실",
+      "sort_order": 23,
+      "preview_text": "박창화 교수 150만원"
+    },
+    {
+      "name": "박가경",
+      "amount": "250만원",
+      "note": "관현악과",
+      "sort_order": 24,
+      "preview_text": "박가경 교수 250만원"
+    },
+    {
+      "name": "고영미",
+      "amount": "1백만원",
+      "note": "데이터과학부",
+      "sort_order": 25,
+      "preview_text": "고영미 교수 1백만원"
+    }
+  ],
+  "staff": [
+    {
+      "name": "전혜원",
+      "amount": "1만원",
+      "note": "국제협력팀",
+      "sort_order": 19,
+      "preview_text": "전혜원 직원 1만원"
+    },
+    {
+      "name": "차정민",
+      "amount": "1백만원",
+      "note": "교수학습개발센터",
+      "sort_order": 20,
+      "preview_text": "차정민 직원 1백만원"
+    }
+  ],
+  "uncategorized": [
+    {
+      "name": "고려기획",
+      "amount": "1백만원",
+      "note": "",
+      "sort_order": 4,
+      "preview_text": "고려기획  1백만원"
+    }
+  ]
+}

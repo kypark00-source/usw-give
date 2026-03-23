@@ -1,0 +1,73 @@
+.campaign-hero{
+text-align:center;
+padding:60px 20px;
+background:#fff;
+}
+
+.poster-img{
+max-width:600px;
+margin:auto;
+}
+
+.info-section{
+margin-top:40px;
+background:white;
+padding:40px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.08);
+}
+
+.account-card{
+background:#fafafa;
+padding:20px;
+border-radius:10px;
+margin-top:20px;
+}
+
+.account-number{
+font-size:20px;
+font-weight:700;
+}
+
+.btn-group{
+margin-top:20px;
+}
+
+.btn-primary{
+background:#98002E;
+color:white;
+padding:10px 20px;
+border-radius:6px;
+}
+
+.btn-secondary{
+background:#eee;
+padding:10px 20px;
+border-radius:6px;
+}
+
+.daldal-container{
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.daldal-container p{
+    text-align: center;
+}
+
+.daldal-container .account-card,
+.daldal-container .donation-account{
+    max-width: 900px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.daldal-container .btn-group,
+.daldal-container .button-group{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 30px;
+}

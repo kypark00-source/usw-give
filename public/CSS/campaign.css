@@ -1,0 +1,273 @@
+:root{
+    --usw-brown:#8a3f2d;
+    --usw-beige:#d0b690;
+    --bg:#f7f5f2;
+    --text:#333;
+    --sub:#666;
+    --line:#e5ddd4;
+    --btn:#9b3f31;
+    --btn-hover:#7f3126;
+}
+
+.page-hero{
+    background:linear-gradient(180deg, #ccb28d 0%, #e7dbcb 100%);
+    padding:130px 24px 70px;
+    text-align:center;
+}
+
+.page-hero .inner{
+    max-width:1200px;
+    margin:0 auto;
+}
+
+.page-hero h1{
+    font-size:clamp(2rem, 4vw, 4rem);
+    color:var(--usw-brown);
+    font-weight:900;
+    margin-bottom:16px;
+}
+
+.page-hero p{
+    font-size:1.1rem;
+    color:#5e5145;
+}
+
+.section{
+    max-width:1200px;
+    margin:0 auto;
+    padding:70px 24px;
+}
+
+.notice-wrap{
+    display:grid;
+    grid-template-columns:1.05fr 0.95fr;
+    gap:36px;
+    align-items:center;
+}
+
+.notice-image{
+    background:#fff;
+    border-radius:24px;
+    overflow:hidden;
+    box-shadow:0 16px 40px rgba(0,0,0,0.08);
+    border:1px solid #eee;
+}
+
+.notice-image img{
+    width:100%;
+    display:block;
+}
+
+.notice-copy h2{
+    font-size:2rem;
+    color:var(--usw-brown);
+    margin-bottom:18px;
+    font-weight:900;
+}
+
+.notice-copy p{
+    font-size:1.05rem;
+    color:#555;
+    margin-bottom:14px;
+    line-height:1.7;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.section-title h2{
+    font-size:2.2rem;
+    color:var(--usw-brown);
+    margin-bottom:12px;
+}
+
+.section-title p{
+    color:#666;
+    font-size:1rem;
+}
+
+.campaign-list{
+    display:flex;
+    flex-direction:column;
+    gap:36px;
+}
+
+.campaign-card{
+    display:grid;
+    grid-template-columns:380px 1fr;
+    gap:32px;
+    background:#fff;
+    border:1px solid var(--line);
+    border-radius:28px;
+    overflow:hidden;
+    box-shadow:0 12px 34px rgba(0,0,0,0.06);
+}
+
+.campaign-poster{
+    background:#faf8f5;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:18px;
+}
+
+.campaign-poster img{
+    width:100%;
+    max-height:560px;
+    object-fit:contain;
+    display:block;
+    border-radius:18px;
+}
+
+.campaign-content{
+    padding:34px 32px 34px 0;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.campaign-name{
+    font-size:2rem;
+    color:var(--usw-brown);
+    font-weight:900;
+    line-height:1.25;
+    margin-bottom:14px;
+}
+
+.campaign-meta{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-bottom:22px;
+}
+
+.meta-badge{
+    display:inline-flex;
+    align-items:center;
+    padding:8px 14px;
+    border-radius:999px;
+    background:#f6efe7;
+    color:#6b4a3d;
+    font-size:0.95rem;
+    font-weight:700;
+}
+
+.campaign-slogan{
+    font-size:1.2rem;
+    font-weight:800;
+    margin-bottom:16px;
+    color:#222;
+}
+
+.campaign-desc{
+    font-size:1rem;
+    color:#555;
+    margin-bottom:26px;
+    line-height:1.8;
+}
+
+.campaign-points{
+    display:grid;
+    grid-template-columns:repeat(2, minmax(0, 1fr));
+    gap:14px;
+    margin-bottom:28px;
+}
+
+.point-box{
+    background:#faf7f3;
+    border:1px solid #eee1d3;
+    border-radius:18px;
+    padding:16px 18px;
+}
+
+.point-box .label{
+    font-size:0.9rem;
+    color:#8d7a69;
+    margin-bottom:6px;
+    font-weight:700;
+}
+
+.point-box .value{
+    font-size:1rem;
+    font-weight:800;
+    color:#333;
+}
+
+.btn-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+}
+
+.btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    min-width:170px;
+    padding:14px 22px;
+    border-radius:999px;
+    font-weight:800;
+    transition:0.2s ease;
+}
+
+.btn-primary{
+    background:var(--btn);
+    color:#fff;
+}
+
+.btn-primary:hover{
+    background:var(--btn-hover);
+}
+
+.btn-secondary{
+    background:#f2eee9;
+    color:#5f4d41;
+}
+
+.btn-secondary:hover{
+    background:#e8e0d7;
+}
+
+#cheonma-campaign,
+#teacher-love-campaign,
+#daldal-campaign {
+  scroll-margin-top: 120px;
+}
+
+@media (max-width:1024px){
+    .notice-wrap{
+        grid-template-columns:1fr;
+    }
+
+    .campaign-card{
+        grid-template-columns:1fr;
+    }
+
+    .campaign-content{
+        padding:0 24px 30px;
+    }
+}
+
+@media (max-width:768px){
+    .page-hero{
+        padding:60px 18px 50px;
+    }
+
+    .section{
+        padding:50px 18px;
+    }
+
+    .campaign-name{
+        font-size:1.6rem;
+    }
+
+    .campaign-points{
+        grid-template-columns:1fr;
+    }
+
+    .btn{
+        width:100%;
+    }
+}

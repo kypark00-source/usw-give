@@ -1,0 +1,25 @@
+{
+  "name": "suwon-external-relations",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "convert:donors": "node scripts/convert-donors.js",
+    "watch:donors": "node scripts/watch-donors.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.0.0",
+    "chokidar": "^5.0.0",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "25.4.0",
+    "@types/react": "19.2.14",
+    "prisma": "^5.0.0",
+    "typescript": "5.9.3"
+  }
+}

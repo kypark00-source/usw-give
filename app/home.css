@@ -387,26 +387,34 @@
   }
 
   .donor-board-section {
-    padding: 24px 12px 44px;
+    padding: 24px 10px 36px;
   }
 
   .donor-board-wrap {
     width: 100%;
-    height: 520px;
-    background-size: cover;
+    height: 760px;
+    background-size: 100% 100%;
   }
 
   .donor-board-grid {
-    top: 78px;
-    width: 86%;
-    height: 360px;
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, 1fr);
-    gap: 6px;
+    top: 120px;
+    width: 90%;
+    height: 520px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: repeat(6, 1fr);
+    gap: 12px 10px;
   }
 
   .donor-board-item {
-    font-size: 12px;
-    padding: 4px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+    font-size: 15px;
+    line-height: 1.35;
+    white-space: normal;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+    text-align: center;
   }
 }

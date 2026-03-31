@@ -9,7 +9,7 @@ export default function Page() {
       </section>
 
       <div className="container">
-        <h2 className="section-heading">기부자 예우 프로그램</h2>
+        <h2 className="section-heading">기부자 예우 안내</h2>
 
         <div className="program-grid">
           <a href="#hall-of-fame" className="program-card">
@@ -74,7 +74,7 @@ export default function Page() {
         </div>
 
         <section className="honor-benefit-pdf" id="benefit-guide">
-            <h2>기부자 예우 안내</h2>
+            <h2>기부자 예우 프로그램</h2>
             <p className="benefit-desc">
                 최신 예우 기준은 아래 안내문에서 확인하실 수 있습니다.
             </p>

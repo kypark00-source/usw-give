@@ -43,7 +43,7 @@ export default function Header() {
               <div className="sub-menu">
                 <a href="/donor-recognition">기부자 예우</a>
                 <a href="/donor-recognition#hall-of-fame">명예의 전당</a>
-                <a href="/donor-recognition#benefit-guide">예우 안내</a>
+                <a href="/donor-recognition#benefit-guide">예우 프로그램</a>
               </div>
             </li>
 

@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import DonorBoardRotator from "./components/DonorBoardRotator";
-import MonthlyDonorTicker from "./components/MonthlyDonorTicker";
 
 type DonorItem = {
   name: string;
@@ -28,7 +27,6 @@ export default function Home() {
   }
 
   const allDonors = Object.values(donorsData).flat();
-  const monthlyDonors = allDonors.slice(0, 8);
 
   return (
     <main>
@@ -37,68 +35,33 @@ export default function Home() {
         <p>여러분의 정성이 수원대학교의 새로운 100년을 만듭니다.</p>
       </section>
 
-      <section className="home-board-section">
-        <div className="home-board-inner">
-          <div className="home-board-col notice-col">
-            <div className="home-board-head">
-              <div className="home-board-tabs">
-                <button type="button" className="home-board-tab is-active">
-                  공지사항
-                </button>
-                <button type="button" className="home-board-tab">
-                  발전기금 Story
-                </button>
-              </div>
-              <a href="#" className="home-board-more" aria-label="공지사항 더보기">
-                +
-              </a>
-            </div>
+      <div className="quick-nav">
+        <a
+          href="/daldal"
+          className="q-card"
+          style={{ padding: 0, overflow: "hidden", display: "block" }}
+        >
+          <img
+            src="/images/daldal-poster.jpg"
+            alt="달달한 기부 캠페인"
+            style={{ width: "100%", display: "block" }}
+          />
+        </a>
 
-            <div className="notice-featured">
-              <div className="notice-featured-date">
-                <strong>20</strong>
-                <span>2026.03</span>
-              </div>
+        <a
+          href="/donor-recognition"
+          className="q-card"
+          style={{ display: "block" }}
+        >
+          <h3>기부자 예우</h3>
+          <p>명예의 전당 및 예우 안내</p>
+        </a>
 
-              <div className="notice-featured-body">
-                <h3>수원대학교 발전기금 기부 참여 안내</h3>
-                <p>수원대학교 발전기금에 따뜻한 관심을 보내주시는 모든 분들께 감사드립니다.</p>
-              </div>
-            </div>
-
-            <ul className="notice-list">
-              <li>
-                <a href="/participation2">수원대학교 발전기금 참여방법 안내</a>
-                <span>2026.03.20</span>
-              </li>
-              <li>
-                <a href="/donor-recognition">기부자 예우 및 명예의 전당 안내</a>
-                <span>2026.03.12</span>
-              </li>
-              <li>
-                <a href="/daldal">달달한 기부 캠페인 참여 안내</a>
-                <span>2026.03.01</span>
-              </li>
-            </ul>
-          </div>
-
-          <div className="home-board-col donor-col">
-            <MonthlyDonorTicker donors={monthlyDonors} />
-          </div>
-
-          <div className="home-board-col popup-col">
-            <div className="home-board-head popup-head-only">
-              <h2 className="home-board-title">POPUP ZONE</h2>
-            </div>
-
-            <div className="popup-zone-card">
-              <a href="/daldal">
-                <img src="/images/daldal-poster.jpg" alt="달달한 기부 캠페인" />
-              </a>
-            </div>
-          </div>
+        <div className="q-card">
+          <h3>공지 사항</h3>
+          <p> .. </p>
         </div>
-      </section>
+      </div>
 
       {/* 발전기금 성과 */}
       <section className="fund-result-section">

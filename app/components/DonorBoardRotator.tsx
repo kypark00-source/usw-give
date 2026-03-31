@@ -23,7 +23,7 @@ function chunkArray<T>(array: T[], size: number) {
 }
 
 export default function DonorBoardRotator({ donors }: Props) {
-  const pages = useMemo(() => chunkArray(donors, 12), [donors]);
+  const pages = useMemo(() => chunkArray(donors, 30), [donors]);
   const [pageIndex, setPageIndex] = useState(0);
 
   useEffect(() => {
@@ -48,11 +48,18 @@ export default function DonorBoardRotator({ donors }: Props) {
             aria-hidden={index !== pageIndex}
           >
             <div className="donor-board-grid">
-              {page.map((donor, donorIndex) => (
-                <div className="donor-board-item" key={`${donor.name}-${donorIndex}`}>
-                  {donor.preview_text}
-                </div>
-              ))}
+              {page.map((donor, donorIndex) => {
+                const formattedText = donor.preview_text.replace(
+                  /(\d+)$/,
+                  (num) => Number(num).toLocaleString('ko-KR') + '원'
+                );
+
+                return (
+                  <div className="donor-board-item" key={`${donor.name}-${donorIndex}`}>
+                    {formattedText}
+                  </div>
+                );
+              })}
             </div>
           </div>
         ))}

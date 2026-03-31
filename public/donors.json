@@ -1,196 +1,4646 @@
 {
-  "선임": [
+  "님": [
     {
-      "name": "이천무",
-      "amount": "5천원",
-      "note": "대외협력팀",
-      "sort_order": 2,
-      "preview_text": "이천무 선임 5천원"
-    }
-  ],
-  "차장": [
+      "name": "이인수",
+      "amount": "35983920",
+      "note": "",
+      "sort_order": 6,
+      "preview_text": "이인수 님 35983920"
+    },
     {
-      "name": "유준일",
-      "amount": "2만원",
-      "note": "총무팀",
-      "sort_order": 3,
-      "preview_text": "유준일 차장 2만원"
+      "name": "안산시의사회 이호준",
+      "amount": "11000000",
+      "note": "",
+      "sort_order": 35,
+      "preview_text": "안산시의사회 이호준 님 11000000"
+    },
+    {
+      "name": "하나기업 이우춘",
+      "amount": "10000000",
+      "note": "전기공학",
+      "sort_order": 38,
+      "preview_text": "하나기업 이우춘 님 10000000"
+    },
+    {
+      "name": "이준호",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 241,
+      "preview_text": "이준호 님 3000000"
+    },
+    {
+      "name": "이관호",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 245,
+      "preview_text": "이관호 님 3000000"
+    },
+    {
+      "name": "(융건릉주유소) 박명욱",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 252,
+      "preview_text": "(융건릉주유소) 박명욱 님 3000000"
+    },
+    {
+      "name": "오문식",
+      "amount": "2500000",
+      "note": "",
+      "sort_order": 295,
+      "preview_text": "오문식 님 2500000"
+    },
+    {
+      "name": "김환식",
+      "amount": "1100000",
+      "note": "",
+      "sort_order": 415,
+      "preview_text": "김환식 님 1100000"
+    },
+    {
+      "name": "한상헌",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 421,
+      "preview_text": "한상헌 님 1000000"
+    },
+    {
+      "name": "남지영",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 466,
+      "preview_text": "남지영 님 1000000"
+    },
+    {
+      "name": "이택오",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 515,
+      "preview_text": "이택오 님 500000"
+    },
+    {
+      "name": "(센트론메디칼) 강민구",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 526,
+      "preview_text": "(센트론메디칼) 강민구 님 500000"
+    },
+    {
+      "name": "신한 홍원경",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 547,
+      "preview_text": "신한 홍원경 님 300000"
+    },
+    {
+      "name": "김창휘",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 553,
+      "preview_text": "김창휘 님 300000"
+    },
+    {
+      "name": "이창용",
+      "amount": "250000",
+      "note": "",
+      "sort_order": 560,
+      "preview_text": "이창용 님 250000"
+    },
+    {
+      "name": "이예빈",
+      "amount": "250000",
+      "note": "",
+      "sort_order": 561,
+      "preview_text": "이예빈 님 250000"
+    },
+    {
+      "name": "이강일",
+      "amount": "250000",
+      "note": "",
+      "sort_order": 562,
+      "preview_text": "이강일 님 250000"
+    },
+    {
+      "name": "윤유정",
+      "amount": "250000",
+      "note": "",
+      "sort_order": 563,
+      "preview_text": "윤유정 님 250000"
+    },
+    {
+      "name": "허선",
+      "amount": "200000",
+      "note": "",
+      "sort_order": 570,
+      "preview_text": "허선 님 200000"
+    },
+    {
+      "name": "김한도",
+      "amount": "200000",
+      "note": "",
+      "sort_order": 579,
+      "preview_text": "김한도 님 200000"
+    },
+    {
+      "name": "김성배",
+      "amount": "200000",
+      "note": "",
+      "sort_order": 582,
+      "preview_text": "김성배 님 200000"
+    },
+    {
+      "name": "한주헌",
+      "amount": "182400",
+      "note": "경제금융학전공",
+      "sort_order": 586,
+      "preview_text": "한주헌 님 182400"
+    },
+    {
+      "name": "김상욱",
+      "amount": "50000",
+      "note": "",
+      "sort_order": 639,
+      "preview_text": "김상욱 님 50000"
+    },
+    {
+      "name": "강도성",
+      "amount": "2000",
+      "note": "",
+      "sort_order": 659,
+      "preview_text": "강도성 님 2000"
+    },
+    {
+      "name": "최선민",
+      "amount": "1000",
+      "note": "",
+      "sort_order": 660,
+      "preview_text": "최선민 님 1000"
+    },
+    {
+      "name": "박종윤",
+      "amount": "500",
+      "note": "",
+      "sort_order": 661,
+      "preview_text": "박종윤 님 500"
+    },
+    {
+      "name": "권혜림",
+      "amount": "10",
+      "note": "",
+      "sort_order": 662,
+      "preview_text": "권혜림 님 10"
     }
   ],
   "alumni": [
     {
+      "name": "수원대학교 총동문회",
+      "amount": "20000000",
+      "note": "",
+      "sort_order": 12,
+      "preview_text": "수원대학교 총동문회 동문 20000000"
+    },
+    {
+      "name": "인아 임승현",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 124,
+      "preview_text": "인아 임승현 동문 5000000"
+    },
+    {
+      "name": "경영대학(동문회)",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 258,
+      "preview_text": "경영대학(동문회) 동문 3000000"
+    },
+    {
+      "name": "강종철",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 260,
+      "preview_text": "강종철 동문 3000000"
+    },
+    {
+      "name": "안경진",
+      "amount": "2000000",
+      "note": "경제금융학부",
+      "sort_order": 339,
+      "preview_text": "안경진 동문 2000000"
+    },
+    {
       "name": "최우중",
-      "amount": "1백만원",
+      "amount": "1000000",
       "note": "간호학과",
-      "sort_order": 26,
-      "preview_text": "최우중 동문 1백만원"
+      "sort_order": 423,
+      "preview_text": "최우중 동문 1000000"
+    },
+    {
+      "name": "수박회장학금",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 454,
+      "preview_text": "수박회장학금 동문 1000000"
+    },
+    {
+      "name": "김상경",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 524,
+      "preview_text": "김상경 동문 500000"
+    },
+    {
+      "name": "류홍인",
+      "amount": "200000",
+      "note": "성악과",
+      "sort_order": 577,
+      "preview_text": "류홍인 동문 200000"
+    },
+    {
+      "name": "김민섭",
+      "amount": "100000",
+      "note": "유전공학과",
+      "sort_order": 627,
+      "preview_text": "김민섭 동문 100000"
     }
   ],
   "professor": [
     {
-      "name": "김영출",
-      "amount": "60만원",
-      "note": "공학대학원",
-      "sort_order": 1,
-      "preview_text": "김영출 교수 60만원"
-    },
-    {
-      "name": "정요안",
-      "amount": "25만원",
-      "note": "소방행정",
-      "sort_order": 5,
-      "preview_text": "정요안 교수 25만원"
-    },
-    {
-      "name": "한경훈",
-      "amount": "6백334천원",
-      "note": "데이터과학부",
-      "sort_order": 6,
-      "preview_text": "한경훈 교수 6백334천원"
-    },
-    {
-      "name": "고승철",
-      "amount": "25만원",
-      "note": "정보보호",
+      "name": "박철수",
+      "amount": "30162910",
+      "note": "",
       "sort_order": 7,
-      "preview_text": "고승철 교수 25만원"
+      "preview_text": "박철수 교수 30162910"
     },
     {
-      "name": "유성식",
-      "amount": "4만원",
-      "note": "인성교양대학",
-      "sort_order": 8,
-      "preview_text": "유성식 교수 4만원"
+      "name": "김현기",
+      "amount": "20000000",
+      "note": "전기공학",
+      "sort_order": 13,
+      "preview_text": "김현기 교수 20000000"
     },
     {
       "name": "정형철",
-      "amount": "120만원",
+      "amount": "15400000",
       "note": "데이터과학부",
-      "sort_order": 9,
-      "preview_text": "정형철 교수 120만원"
-    },
-    {
-      "name": "권경남",
-      "amount": "1백만원",
-      "note": "건축학",
-      "sort_order": 10,
-      "preview_text": "권경남 교수 1백만원"
-    },
-    {
-      "name": "배애령",
-      "amount": "1백만원",
-      "note": "성악과",
-      "sort_order": 11,
-      "preview_text": "배애령 교수 1백만원"
-    },
-    {
-      "name": "장혜전",
-      "amount": "1백만원",
-      "note": "한국언어문화",
-      "sort_order": 12,
-      "preview_text": "장혜전 교수 1백만원"
-    },
-    {
-      "name": "천세정",
-      "amount": "1백만원",
-      "note": "피아노과",
-      "sort_order": 13,
-      "preview_text": "천세정 교수 1백만원"
-    },
-    {
-      "name": "김근",
-      "amount": "50만원",
-      "note": "바이오공학 및 마케팅",
-      "sort_order": 14,
-      "preview_text": "김근 교수 50만원"
-    },
-    {
-      "name": "유성식",
-      "amount": "1백만원",
-      "note": "인성교양대학",
       "sort_order": 15,
-      "preview_text": "유성식 교수 1백만원"
+      "preview_text": "정형철 교수 15400000"
     },
     {
-      "name": "이성주",
-      "amount": "30만원",
-      "note": "피아노과",
-      "sort_order": 16,
-      "preview_text": "이성주 교수 30만원"
-    },
-    {
-      "name": "주정선",
-      "amount": "50만원",
-      "note": "체육교육",
+      "name": "강인수",
+      "amount": "15000000",
+      "note": "교육대학원",
       "sort_order": 17,
-      "preview_text": "주정선 교수 50만원"
+      "preview_text": "강인수 교수 15000000"
+    },
+    {
+      "name": "임경숙",
+      "amount": "13832050",
+      "note": "",
+      "sort_order": 19,
+      "preview_text": "임경숙 교수 13832050"
+    },
+    {
+      "name": "오명희",
+      "amount": "13073020",
+      "note": "회화",
+      "sort_order": 20,
+      "preview_text": "오명희 교수 13073020"
+    },
+    {
+      "name": "정찬교",
+      "amount": "13000000",
+      "note": "환경에너지공학",
+      "sort_order": 21,
+      "preview_text": "정찬교 교수 13000000"
+    },
+    {
+      "name": "오성권",
+      "amount": "13000000",
+      "note": "전기공학",
+      "sort_order": 22,
+      "preview_text": "오성권 교수 13000000"
+    },
+    {
+      "name": "김희경",
+      "amount": "12194670",
+      "note": "조소",
+      "sort_order": 24,
+      "preview_text": "김희경 교수 12194670"
+    },
+    {
+      "name": "홍영근",
+      "amount": "12000000",
+      "note": "신소재공학",
+      "sort_order": 25,
+      "preview_text": "홍영근 교수 12000000"
+    },
+    {
+      "name": "이동희",
+      "amount": "12000000",
+      "note": "전기공학",
+      "sort_order": 26,
+      "preview_text": "이동희 교수 12000000"
+    },
+    {
+      "name": "박성만",
+      "amount": "12000000",
+      "note": "회계",
+      "sort_order": 27,
+      "preview_text": "박성만 교수 12000000"
+    },
+    {
+      "name": "이상희",
+      "amount": "11714310",
+      "note": "패션디자인",
+      "sort_order": 29,
+      "preview_text": "이상희 교수 11714310"
+    },
+    {
+      "name": "강동헌",
+      "amount": "11409800",
+      "note": "반도체공학과",
+      "sort_order": 30,
+      "preview_text": "강동헌 교수 11409800"
+    },
+    {
+      "name": "우창훈",
+      "amount": "11297450",
+      "note": "건축학",
+      "sort_order": 31,
+      "preview_text": "우창훈 교수 11297450"
+    },
+    {
+      "name": "임교빈",
+      "amount": "11276770",
+      "note": "화학공학",
+      "sort_order": 32,
+      "preview_text": "임교빈 교수 11276770"
+    },
+    {
+      "name": "최규련",
+      "amount": "11000000",
+      "note": "아동가족복지학과",
+      "sort_order": 33,
+      "preview_text": "최규련 교수 11000000"
+    },
+    {
+      "name": "김화숙",
+      "amount": "11000000",
+      "note": "성악과",
+      "sort_order": 36,
+      "preview_text": "김화숙 교수 11000000"
+    },
+    {
+      "name": "조봉희",
+      "amount": "10000000",
+      "note": "전기공학",
+      "sort_order": 40,
+      "preview_text": "조봉희 교수 10000000"
+    },
+    {
+      "name": "전엄봉",
+      "amount": "10000000",
+      "note": "체육학",
+      "sort_order": 41,
+      "preview_text": "전엄봉 교수 10000000"
+    },
+    {
+      "name": "용환선",
+      "amount": "10000000",
+      "note": "건설환경공학",
+      "sort_order": 42,
+      "preview_text": "용환선 교수 10000000"
+    },
+    {
+      "name": "양윤기",
+      "amount": "10000000",
+      "note": "정보통신",
+      "sort_order": 44,
+      "preview_text": "양윤기 교수 10000000"
+    },
+    {
+      "name": "안원식",
+      "amount": "10000000",
+      "note": "건설환경공학",
+      "sort_order": 45,
+      "preview_text": "안원식 교수 10000000"
+    },
+    {
+      "name": "배상경",
+      "amount": "10000000",
+      "note": "의류학과",
+      "sort_order": 47,
+      "preview_text": "배상경 교수 10000000"
+    },
+    {
+      "name": "박태덕",
+      "amount": "10000000",
+      "note": "중어중문학",
+      "sort_order": 48,
+      "preview_text": "박태덕 교수 10000000"
+    },
+    {
+      "name": "박동구",
+      "amount": "10000000",
+      "note": "전자재료공학",
+      "sort_order": 49,
+      "preview_text": "박동구 교수 10000000"
+    },
+    {
+      "name": "전병욱",
+      "amount": "9999200",
+      "note": "정보통신",
+      "sort_order": 52,
+      "preview_text": "전병욱 교수 9999200"
+    },
+    {
+      "name": "양정훈",
+      "amount": "9742470",
+      "note": "러시아언어문화",
+      "sort_order": 54,
+      "preview_text": "양정훈 교수 9742470"
+    },
+    {
+      "name": "이성근",
+      "amount": "9473250",
+      "note": "일본언어문화",
+      "sort_order": 55,
+      "preview_text": "이성근 교수 9473250"
+    },
+    {
+      "name": "최광수",
+      "amount": "9366740",
+      "note": "반도체공학과",
+      "sort_order": 56,
+      "preview_text": "최광수 교수 9366740"
+    },
+    {
+      "name": "최형석",
+      "amount": "9000000",
+      "note": "도시부동산학",
+      "sort_order": 57,
+      "preview_text": "최형석 교수 9000000"
+    },
+    {
+      "name": "장순옥",
+      "amount": "9000000",
+      "note": "식품영양학과",
+      "sort_order": 58,
+      "preview_text": "장순옥 교수 9000000"
+    },
+    {
+      "name": "유인선",
+      "amount": "8333470",
+      "note": "경영",
+      "sort_order": 60,
+      "preview_text": "유인선 교수 8333470"
+    },
+    {
+      "name": "이채영",
+      "amount": "8165120",
+      "note": "건설환경공학",
+      "sort_order": 61,
+      "preview_text": "이채영 교수 8165120"
+    },
+    {
+      "name": "박은미",
+      "amount": "8000000",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 63,
+      "preview_text": "박은미 교수 8000000"
+    },
+    {
+      "name": "구자은",
+      "amount": "7654280",
+      "note": "회계",
+      "sort_order": 65,
+      "preview_text": "구자은 교수 7654280"
+    },
+    {
+      "name": "이주향",
+      "amount": "7616910",
+      "note": "인성교양대학",
+      "sort_order": 66,
+      "preview_text": "이주향 교수 7616910"
+    },
+    {
+      "name": "이경희",
+      "amount": "7552740",
+      "note": "",
+      "sort_order": 67,
+      "preview_text": "이경희 교수 7552740"
+    },
+    {
+      "name": "손수국",
+      "amount": "7550400",
+      "note": "정보통신",
+      "sort_order": 68,
+      "preview_text": "손수국 교수 7550400"
+    },
+    {
+      "name": "김화숙",
+      "amount": "7445000",
+      "note": "성악과",
+      "sort_order": 69,
+      "preview_text": "김화숙 교수 7445000"
+    },
+    {
+      "name": "이재복",
+      "amount": "7145660",
+      "note": "미술학과",
+      "sort_order": 70,
+      "preview_text": "이재복 교수 7145660"
+    },
+    {
+      "name": "이성철",
+      "amount": "7105960",
+      "note": "스포츠과학부",
+      "sort_order": 71,
+      "preview_text": "이성철 교수 7105960"
+    },
+    {
+      "name": "김영호",
+      "amount": "7100000",
+      "note": "바이오싸이언스",
+      "sort_order": 72,
+      "preview_text": "김영호 교수 7100000"
+    },
+    {
+      "name": "이창수",
+      "amount": "7099340",
+      "note": "전자공학",
+      "sort_order": 73,
+      "preview_text": "이창수 교수 7099340"
+    },
+    {
+      "name": "양정수",
+      "amount": "7000000",
+      "note": "무용",
+      "sort_order": 74,
+      "preview_text": "양정수 교수 7000000"
+    },
+    {
+      "name": "홍주희",
+      "amount": "6710100",
+      "note": "국악과",
+      "sort_order": 76,
+      "preview_text": "홍주희 교수 6710100"
     },
     {
       "name": "이상욱",
-      "amount": "1백만원",
-      "note": "데이터과학부",
-      "sort_order": 18,
-      "preview_text": "이상욱 교수 1백만원"
+      "amount": "6686450",
+      "note": "AI데이터과학부",
+      "sort_order": 77,
+      "preview_text": "이상욱 교수 6686450"
     },
     {
-      "name": "황용득",
-      "amount": "20만원",
-      "note": "데이터과학부",
-      "sort_order": 21,
-      "preview_text": "황용득 교수 20만원"
+      "name": "김용훈",
+      "amount": "6625410",
+      "note": "행정학",
+      "sort_order": 78,
+      "preview_text": "김용훈 교수 6625410"
     },
     {
-      "name": "송민규",
-      "amount": "1백만원",
+      "name": "이은영",
+      "amount": "6622260",
+      "note": "환경에너지공학",
+      "sort_order": 79,
+      "preview_text": "이은영 교수 6622260"
+    },
+    {
+      "name": "우경진",
+      "amount": "6618910",
+      "note": "호텔관광학부",
+      "sort_order": 80,
+      "preview_text": "우경진 교수 6618910"
+    },
+    {
+      "name": "김중신",
+      "amount": "6452480",
       "note": "한국언어문화",
-      "sort_order": 22,
-      "preview_text": "송민규 교수 1백만원"
+      "sort_order": 81,
+      "preview_text": "김중신 교수 6452480"
     },
     {
-      "name": "박창화",
-      "amount": "150만원",
-      "note": "법무감사실",
-      "sort_order": 23,
-      "preview_text": "박창화 교수 150만원"
+      "name": "고영란",
+      "amount": "6420010",
+      "note": "영미언어문화",
+      "sort_order": 82,
+      "preview_text": "고영란 교수 6420010"
     },
     {
-      "name": "박가경",
-      "amount": "250만원",
-      "note": "관현악과",
-      "sort_order": 24,
-      "preview_text": "박가경 교수 250만원"
+      "name": "정경호",
+      "amount": "6411180",
+      "note": "신소재공학",
+      "sort_order": 83,
+      "preview_text": "정경호 교수 6411180"
+    },
+    {
+      "name": "한경훈",
+      "amount": "6334000",
+      "note": "데이터과학부",
+      "sort_order": 84,
+      "preview_text": "한경훈 교수 6334000"
+    },
+    {
+      "name": "이찬",
+      "amount": "6293260",
+      "note": "기계공학부",
+      "sort_order": 85,
+      "preview_text": "이찬 교수 6293260"
+    },
+    {
+      "name": "문승진",
+      "amount": "6118080",
+      "note": "컴퓨터SW",
+      "sort_order": 86,
+      "preview_text": "문승진 교수 6118080"
+    },
+    {
+      "name": "윤종걸",
+      "amount": "6111950",
+      "note": "반도체공학과",
+      "sort_order": 87,
+      "preview_text": "윤종걸 교수 6111950"
+    },
+    {
+      "name": "조균형",
+      "amount": "6000000",
+      "note": "대학원",
+      "sort_order": 89,
+      "preview_text": "조균형 교수 6000000"
+    },
+    {
+      "name": "이종원",
+      "amount": "6000000",
+      "note": "글로벌비즈니스학과",
+      "sort_order": 90,
+      "preview_text": "이종원 교수 6000000"
+    },
+    {
+      "name": "곽영직",
+      "amount": "6000000",
+      "note": "인성교양대학",
+      "sort_order": 92,
+      "preview_text": "곽영직 교수 6000000"
+    },
+    {
+      "name": "고용서",
+      "amount": "6000000",
+      "note": "기계공학",
+      "sort_order": 93,
+      "preview_text": "고용서 교수 6000000"
+    },
+    {
+      "name": "길현권",
+      "amount": "5968020",
+      "note": "기계공학부",
+      "sort_order": 95,
+      "preview_text": "길현권 교수 5968020"
+    },
+    {
+      "name": "김기영",
+      "amount": "5819440",
+      "note": "법학",
+      "sort_order": 96,
+      "preview_text": "김기영 교수 5819440"
+    },
+    {
+      "name": "박승기",
+      "amount": "5716440",
+      "note": "융합화학산업",
+      "sort_order": 97,
+      "preview_text": "박승기 교수 5716440"
     },
     {
       "name": "고영미",
-      "amount": "1백만원",
+      "amount": "5698150",
       "note": "데이터과학부",
-      "sort_order": 25,
-      "preview_text": "고영미 교수 1백만원"
+      "sort_order": 98,
+      "preview_text": "고영미 교수 5698150"
+    },
+    {
+      "name": "김영은",
+      "amount": "5696570",
+      "note": "관현악과",
+      "sort_order": 99,
+      "preview_text": "김영은 교수 5696570"
+    },
+    {
+      "name": "진형종",
+      "amount": "5687000",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 100,
+      "preview_text": "진형종 교수 5687000"
+    },
+    {
+      "name": "장윤상",
+      "amount": "5613600",
+      "note": "기계공학부",
+      "sort_order": 102,
+      "preview_text": "장윤상 교수 5613600"
+    },
+    {
+      "name": "차상원",
+      "amount": "5611170",
+      "note": "기계공학부",
+      "sort_order": 103,
+      "preview_text": "차상원 교수 5611170"
+    },
+    {
+      "name": "윤항진",
+      "amount": "5547760",
+      "note": "영어영문학",
+      "sort_order": 104,
+      "preview_text": "윤항진 교수 5547760"
+    },
+    {
+      "name": "이용관",
+      "amount": "5531120",
+      "note": "영미언어문화",
+      "sort_order": 105,
+      "preview_text": "이용관 교수 5531120"
+    },
+    {
+      "name": "이유현",
+      "amount": "5503660",
+      "note": "영양교육",
+      "sort_order": 106,
+      "preview_text": "이유현 교수 5503660"
+    },
+    {
+      "name": "이상규",
+      "amount": "5403390",
+      "note": "경제금융",
+      "sort_order": 108,
+      "preview_text": "이상규 교수 5403390"
+    },
+    {
+      "name": "유종훈",
+      "amount": "5400140",
+      "note": "화학공학",
+      "sort_order": 109,
+      "preview_text": "유종훈 교수 5400140"
+    },
+    {
+      "name": "송승민",
+      "amount": "5353240",
+      "note": "아동가족복지학과",
+      "sort_order": 110,
+      "preview_text": "송승민 교수 5353240"
+    },
+    {
+      "name": "정문자",
+      "amount": "5302280",
+      "note": "데이터과학부",
+      "sort_order": 112,
+      "preview_text": "정문자 교수 5302280"
+    },
+    {
+      "name": "장영기",
+      "amount": "5204710",
+      "note": "환경에너지공학",
+      "sort_order": 113,
+      "preview_text": "장영기 교수 5204710"
+    },
+    {
+      "name": "최영희",
+      "amount": "5133360",
+      "note": "아동가족복지학과",
+      "sort_order": 114,
+      "preview_text": "최영희 교수 5133360"
+    },
+    {
+      "name": "호광일",
+      "amount": "5000000",
+      "note": "기계공학부",
+      "sort_order": 115,
+      "preview_text": "호광일 교수 5000000"
+    },
+    {
+      "name": "최성이",
+      "amount": "5000000",
+      "note": "무용",
+      "sort_order": 117,
+      "preview_text": "최성이 교수 5000000"
+    },
+    {
+      "name": "채영수",
+      "amount": "5000000",
+      "note": "건설환경공학",
+      "sort_order": 118,
+      "preview_text": "채영수 교수 5000000"
+    },
+    {
+      "name": "정일동",
+      "amount": "5000000",
+      "note": "사학",
+      "sort_order": 121,
+      "preview_text": "정일동 교수 5000000"
+    },
+    {
+      "name": "정봉진",
+      "amount": "5000000",
+      "note": "환경에너지공학",
+      "sort_order": 122,
+      "preview_text": "정봉진 교수 5000000"
+    },
+    {
+      "name": "장영란",
+      "amount": "5000000",
+      "note": "공예디자인",
+      "sort_order": 123,
+      "preview_text": "장영란 교수 5000000"
+    },
+    {
+      "name": "이혜선",
+      "amount": "5000000",
+      "note": "조소",
+      "sort_order": 125,
+      "preview_text": "이혜선 교수 5000000"
+    },
+    {
+      "name": "이한구",
+      "amount": "5000000",
+      "note": "경제금융",
+      "sort_order": 126,
+      "preview_text": "이한구 교수 5000000"
+    },
+    {
+      "name": "이용학",
+      "amount": "5000000",
+      "note": "경영",
+      "sort_order": 127,
+      "preview_text": "이용학 교수 5000000"
+    },
+    {
+      "name": "이상훈",
+      "amount": "5000000",
+      "note": "환경에너지공학과",
+      "sort_order": 128,
+      "preview_text": "이상훈 교수 5000000"
+    },
+    {
+      "name": "이복남",
+      "amount": "5000000",
+      "note": "프랑스어문학",
+      "sort_order": 129,
+      "preview_text": "이복남 교수 5000000"
+    },
+    {
+      "name": "양화식",
+      "amount": "5000000",
+      "note": "법학",
+      "sort_order": 131,
+      "preview_text": "양화식 교수 5000000"
+    },
+    {
+      "name": "성수일",
+      "amount": "5000000",
+      "note": "생명과학과",
+      "sort_order": 132,
+      "preview_text": "성수일 교수 5000000"
+    },
+    {
+      "name": "배재흠",
+      "amount": "5000000",
+      "note": "화학공학과",
+      "sort_order": 133,
+      "preview_text": "배재흠 교수 5000000"
+    },
+    {
+      "name": "박상임",
+      "amount": "5000000",
+      "note": "회계학과",
+      "sort_order": 134,
+      "preview_text": "박상임 교수 5000000"
+    },
+    {
+      "name": "문인수",
+      "amount": "5000000",
+      "note": "조소",
+      "sort_order": 135,
+      "preview_text": "문인수 교수 5000000"
+    },
+    {
+      "name": "김태진",
+      "amount": "5000000",
+      "note": "화학공학",
+      "sort_order": 137,
+      "preview_text": "김태진 교수 5000000"
+    },
+    {
+      "name": "김충섭",
+      "amount": "5000000",
+      "note": "반도체공학과",
+      "sort_order": 138,
+      "preview_text": "김충섭 교수 5000000"
+    },
+    {
+      "name": "김진율",
+      "amount": "5000000",
+      "note": "전자공학",
+      "sort_order": 139,
+      "preview_text": "김진율 교수 5000000"
+    },
+    {
+      "name": "김선영",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 140,
+      "preview_text": "김선영 교수 5000000"
+    },
+    {
+      "name": "김명란",
+      "amount": "5000000",
+      "note": "공예디자인",
+      "sort_order": 141,
+      "preview_text": "김명란 교수 5000000"
+    },
+    {
+      "name": "강석춘",
+      "amount": "5000000",
+      "note": "기계공학부",
+      "sort_order": 143,
+      "preview_text": "강석춘 교수 5000000"
+    },
+    {
+      "name": "김은혜",
+      "amount": "4877990",
+      "note": "",
+      "sort_order": 144,
+      "preview_text": "김은혜 교수 4877990"
+    },
+    {
+      "name": "차영란",
+      "amount": "4875930",
+      "note": "미디어커뮤니케이션",
+      "sort_order": 145,
+      "preview_text": "차영란 교수 4875930"
+    },
+    {
+      "name": "길상근",
+      "amount": "4818870",
+      "note": "전자공학",
+      "sort_order": 146,
+      "preview_text": "길상근 교수 4818870"
+    },
+    {
+      "name": "박재홍",
+      "amount": "4763090",
+      "note": "도시부동산학",
+      "sort_order": 147,
+      "preview_text": "박재홍 교수 4763090"
+    },
+    {
+      "name": "유광호",
+      "amount": "4723780",
+      "note": "건설환경공학",
+      "sort_order": 148,
+      "preview_text": "유광호 교수 4723780"
+    },
+    {
+      "name": "이성재",
+      "amount": "4693270",
+      "note": "신소재공학",
+      "sort_order": 149,
+      "preview_text": "이성재 교수 4693270"
+    },
+    {
+      "name": "장성태",
+      "amount": "4644780",
+      "note": "컴퓨터SW",
+      "sort_order": 151,
+      "preview_text": "장성태 교수 4644780"
+    },
+    {
+      "name": "김동섭",
+      "amount": "4627170",
+      "note": "인성교양대학",
+      "sort_order": 152,
+      "preview_text": "김동섭 교수 4627170"
+    },
+    {
+      "name": "임진옥",
+      "amount": "4600000",
+      "note": "국악과",
+      "sort_order": 153,
+      "preview_text": "임진옥 교수 4600000"
+    },
+    {
+      "name": "이동하",
+      "amount": "4600000",
+      "note": "산업공학",
+      "sort_order": 154,
+      "preview_text": "이동하 교수 4600000"
+    },
+    {
+      "name": "김근",
+      "amount": "4600000",
+      "note": "바이오공학과",
+      "sort_order": 155,
+      "preview_text": "김근 교수 4600000"
+    },
+    {
+      "name": "박가경",
+      "amount": "4596570",
+      "note": "관현악과",
+      "sort_order": 156,
+      "preview_text": "박가경 교수 4596570"
+    },
+    {
+      "name": "최준봉",
+      "amount": "4556640",
+      "note": "호텔관광대학원",
+      "sort_order": 157,
+      "preview_text": "최준봉 교수 4556640"
+    },
+    {
+      "name": "정대원",
+      "amount": "4552550",
+      "note": "신소재공학",
+      "sort_order": 158,
+      "preview_text": "정대원 교수 4552550"
+    },
+    {
+      "name": "이정헌",
+      "amount": "4506820",
+      "note": "인성교",
+      "sort_order": 159,
+      "preview_text": "이정헌 교수 4506820"
+    },
+    {
+      "name": "조기정",
+      "amount": "4505510",
+      "note": "체육교육",
+      "sort_order": 160,
+      "preview_text": "조기정 교수 4505510"
+    },
+    {
+      "name": "김정호",
+      "amount": "4481360",
+      "note": "화학공학",
+      "sort_order": 162,
+      "preview_text": "김정호 교수 4481360"
+    },
+    {
+      "name": "홍기천",
+      "amount": "4475060",
+      "note": "정보통신",
+      "sort_order": 163,
+      "preview_text": "홍기천 교수 4475060"
+    },
+    {
+      "name": "박혜진",
+      "amount": "4444340",
+      "note": "",
+      "sort_order": 164,
+      "preview_text": "박혜진 교수 4444340"
+    },
+    {
+      "name": "정용찬",
+      "amount": "4406470",
+      "note": "융합화학산업",
+      "sort_order": 165,
+      "preview_text": "정용찬 교수 4406470"
+    },
+    {
+      "name": "이명원",
+      "amount": "4387790",
+      "note": "미디어SW",
+      "sort_order": 166,
+      "preview_text": "이명원 교수 4387790"
+    },
+    {
+      "name": "양수미",
+      "amount": "4286750",
+      "note": "정보보호",
+      "sort_order": 167,
+      "preview_text": "양수미 교수 4286750"
+    },
+    {
+      "name": "박승찬",
+      "amount": "4185490",
+      "note": "인성교양대학",
+      "sort_order": 170,
+      "preview_text": "박승찬 교수 4185490"
+    },
+    {
+      "name": "송진영",
+      "amount": "4101740",
+      "note": "중국언어문화",
+      "sort_order": 173,
+      "preview_text": "송진영 교수 4101740"
+    },
+    {
+      "name": "김원경",
+      "amount": "4074520",
+      "note": "한국언어문화",
+      "sort_order": 175,
+      "preview_text": "김원경 교수 4074520"
+    },
+    {
+      "name": "조균형",
+      "amount": "4000000",
+      "note": "대학원",
+      "sort_order": 178,
+      "preview_text": "조균형 교수 4000000"
+    },
+    {
+      "name": "전세일",
+      "amount": "4000000",
+      "note": "체육학",
+      "sort_order": 179,
+      "preview_text": "전세일 교수 4000000"
+    },
+    {
+      "name": "장혜전",
+      "amount": "4000000",
+      "note": "한국언어문화",
+      "sort_order": 180,
+      "preview_text": "장혜전 교수 4000000"
+    },
+    {
+      "name": "이승교",
+      "amount": "4000000",
+      "note": "식품영양학과",
+      "sort_order": 181,
+      "preview_text": "이승교 교수 4000000"
+    },
+    {
+      "name": "오근태",
+      "amount": "4000000",
+      "note": "산업공학",
+      "sort_order": 182,
+      "preview_text": "오근태 교수 4000000"
+    },
+    {
+      "name": "심영철",
+      "amount": "4000000",
+      "note": "조소",
+      "sort_order": 183,
+      "preview_text": "심영철 교수 4000000"
+    },
+    {
+      "name": "박진우",
+      "amount": "4000000",
+      "note": "",
+      "sort_order": 184,
+      "preview_text": "박진우 교수 4000000"
+    },
+    {
+      "name": "박제영",
+      "amount": "4000000",
+      "note": "체육학",
+      "sort_order": 185,
+      "preview_text": "박제영 교수 4000000"
+    },
+    {
+      "name": "박정희",
+      "amount": "4000000",
+      "note": "생명과학과",
+      "sort_order": 186,
+      "preview_text": "박정희 교수 4000000"
+    },
+    {
+      "name": "박문수",
+      "amount": "4000000",
+      "note": "",
+      "sort_order": 187,
+      "preview_text": "박문수 교수 4000000"
+    },
+    {
+      "name": "김진흠",
+      "amount": "4000000",
+      "note": "데이터과학부",
+      "sort_order": 188,
+      "preview_text": "김진흠 교수 4000000"
+    },
+    {
+      "name": "김준홍",
+      "amount": "4000000",
+      "note": "",
+      "sort_order": 189,
+      "preview_text": "김준홍 교수 4000000"
+    },
+    {
+      "name": "김수만",
+      "amount": "4000000",
+      "note": "토목공학과",
+      "sort_order": 190,
+      "preview_text": "김수만 교수 4000000"
+    },
+    {
+      "name": "김미란",
+      "amount": "4000000",
+      "note": "한국언어문화",
+      "sort_order": 191,
+      "preview_text": "김미란 교수 4000000"
+    },
+    {
+      "name": "김건희",
+      "amount": "4000000",
+      "note": "회화",
+      "sort_order": 192,
+      "preview_text": "김건희 교수 4000000"
+    },
+    {
+      "name": "최정원",
+      "amount": "3973890",
+      "note": "융합화학산업",
+      "sort_order": 194,
+      "preview_text": "최정원 교수 3973890"
+    },
+    {
+      "name": "황인국",
+      "amount": "3939630",
+      "note": "화학공학",
+      "sort_order": 195,
+      "preview_text": "황인국 교수 3939630"
+    },
+    {
+      "name": "김철홍",
+      "amount": "3900000",
+      "note": "도시부동산학",
+      "sort_order": 196,
+      "preview_text": "김철홍 교수 3900000"
+    },
+    {
+      "name": "공원영",
+      "amount": "3780940",
+      "note": "피아노과",
+      "sort_order": 198,
+      "preview_text": "공원영 교수 3780940"
+    },
+    {
+      "name": "최희선",
+      "amount": "3700000",
+      "note": "융합화학산업",
+      "sort_order": 200,
+      "preview_text": "최희선 교수 3700000"
+    },
+    {
+      "name": "이종영",
+      "amount": "3700000",
+      "note": "운동건강관리",
+      "sort_order": 201,
+      "preview_text": "이종영 교수 3700000"
+    },
+    {
+      "name": "윤이나",
+      "amount": "3656810",
+      "note": "성악과",
+      "sort_order": 203,
+      "preview_text": "윤이나 교수 3656810"
+    },
+    {
+      "name": "김근묵",
+      "amount": "3650000",
+      "note": "전자물리",
+      "sort_order": 204,
+      "preview_text": "김근묵 교수 3650000"
+    },
+    {
+      "name": "배규식",
+      "amount": "3600000",
+      "note": "전자재료공학",
+      "sort_order": 206,
+      "preview_text": "배규식 교수 3600000"
+    },
+    {
+      "name": "민병훈",
+      "amount": "3600000",
+      "note": "화학공학",
+      "sort_order": 207,
+      "preview_text": "민병훈 교수 3600000"
+    },
+    {
+      "name": "나윤균",
+      "amount": "3600000",
+      "note": "산업공학",
+      "sort_order": 208,
+      "preview_text": "나윤균 교수 3600000"
+    },
+    {
+      "name": "김은옥",
+      "amount": "3600000",
+      "note": "융합화학산업",
+      "sort_order": 209,
+      "preview_text": "김은옥 교수 3600000"
+    },
+    {
+      "name": "김명수",
+      "amount": "3600000",
+      "note": "산업공학",
+      "sort_order": 210,
+      "preview_text": "김명수 교수 3600000"
+    },
+    {
+      "name": "이문행",
+      "amount": "3556910",
+      "note": "미디어커뮤니케이션",
+      "sort_order": 211,
+      "preview_text": "이문행 교수 3556910"
+    },
+    {
+      "name": "오영균",
+      "amount": "3469610",
+      "note": "행정학",
+      "sort_order": 213,
+      "preview_text": "오영균 교수 3469610"
+    },
+    {
+      "name": "박연준",
+      "amount": "3451250",
+      "note": "건설환경공학",
+      "sort_order": 214,
+      "preview_text": "박연준 교수 3451250"
+    },
+    {
+      "name": "박환",
+      "amount": "3427700",
+      "note": "사학",
+      "sort_order": 216,
+      "preview_text": "박환 교수 3427700"
+    },
+    {
+      "name": "김재등",
+      "amount": "3423450",
+      "note": "체육학",
+      "sort_order": 217,
+      "preview_text": "김재등 교수 3423450"
+    },
+    {
+      "name": "전병철",
+      "amount": "3400000",
+      "note": "신소재공학",
+      "sort_order": 219,
+      "preview_text": "전병철 교수 3400000"
+    },
+    {
+      "name": "박훤범",
+      "amount": "3397380",
+      "note": "간호학과",
+      "sort_order": 220,
+      "preview_text": "박훤범 교수 3397380"
+    },
+    {
+      "name": "정종문",
+      "amount": "3360000",
+      "note": "바이오싸이언스",
+      "sort_order": 222,
+      "preview_text": "정종문 교수 3360000"
+    },
+    {
+      "name": "오혜순",
+      "amount": "3357600",
+      "note": "무용",
+      "sort_order": 223,
+      "preview_text": "오혜순 교수 3357600"
+    },
+    {
+      "name": "차대영",
+      "amount": "3303750",
+      "note": "조형예술학과",
+      "sort_order": 226,
+      "preview_text": "차대영 교수 3303750"
+    },
+    {
+      "name": "이영림",
+      "amount": "3216380",
+      "note": "사학",
+      "sort_order": 228,
+      "preview_text": "이영림 교수 3216380"
+    },
+    {
+      "name": "양정석",
+      "amount": "3200000",
+      "note": "디지털헤리티지",
+      "sort_order": 229,
+      "preview_text": "양정석 교수 3200000"
+    },
+    {
+      "name": "김선희",
+      "amount": "3182640",
+      "note": "",
+      "sort_order": 230,
+      "preview_text": "김선희 교수 3182640"
+    },
+    {
+      "name": "전영미",
+      "amount": "3174120",
+      "note": "교육대학원",
+      "sort_order": 232,
+      "preview_text": "전영미 교수 3174120"
+    },
+    {
+      "name": "채승묵",
+      "amount": "3091660",
+      "note": "연극",
+      "sort_order": 233,
+      "preview_text": "채승묵 교수 3091660"
+    },
+    {
+      "name": "조순보",
+      "amount": "3000000",
+      "note": "간호학과",
+      "sort_order": 236,
+      "preview_text": "조순보 교수 3000000"
+    },
+    {
+      "name": "정현숙",
+      "amount": "3000000",
+      "note": "인성교양대학",
+      "sort_order": 237,
+      "preview_text": "정현숙 교수 3000000"
+    },
+    {
+      "name": "정창호",
+      "amount": "3000000",
+      "note": "건축학",
+      "sort_order": 238,
+      "preview_text": "정창호 교수 3000000"
+    },
+    {
+      "name": "이혜숙",
+      "amount": "3000000",
+      "note": "호텔관광학부",
+      "sort_order": 239,
+      "preview_text": "이혜숙 교수 3000000"
+    },
+    {
+      "name": "이철규",
+      "amount": "3000000",
+      "note": "행정학과",
+      "sort_order": 240,
+      "preview_text": "이철규 교수 3000000"
+    },
+    {
+      "name": "이원영",
+      "amount": "3000000",
+      "note": "도시부동산학",
+      "sort_order": 242,
+      "preview_text": "이원영 교수 3000000"
+    },
+    {
+      "name": "이승종",
+      "amount": "3000000",
+      "note": "물리학",
+      "sort_order": 243,
+      "preview_text": "이승종 교수 3000000"
+    },
+    {
+      "name": "이미재",
+      "amount": "3000000",
+      "note": "영미언어문화",
+      "sort_order": 244,
+      "preview_text": "이미재 교수 3000000"
+    },
+    {
+      "name": "윤정원",
+      "amount": "3000000",
+      "note": "생명공학과",
+      "sort_order": 246,
+      "preview_text": "윤정원 교수 3000000"
+    },
+    {
+      "name": "윤석훈",
+      "amount": "3000000",
+      "note": "데이터과학부",
+      "sort_order": 247,
+      "preview_text": "윤석훈 교수 3000000"
+    },
+    {
+      "name": "오형엽",
+      "amount": "3000000",
+      "note": "국어국문학과",
+      "sort_order": 248,
+      "preview_text": "오형엽 교수 3000000"
+    },
+    {
+      "name": "박배식",
+      "amount": "3000000",
+      "note": "전자물리",
+      "sort_order": 251,
+      "preview_text": "박배식 교수 3000000"
+    },
+    {
+      "name": "류인순",
+      "amount": "3000000",
+      "note": "경영학과",
+      "sort_order": 253,
+      "preview_text": "류인순 교수 3000000"
+    },
+    {
+      "name": "남천현",
+      "amount": "3000000",
+      "note": "회계",
+      "sort_order": 254,
+      "preview_text": "남천현 교수 3000000"
+    },
+    {
+      "name": "나민구",
+      "amount": "3000000",
+      "note": "중어중문학과",
+      "sort_order": 255,
+      "preview_text": "나민구 교수 3000000"
+    },
+    {
+      "name": "김문자",
+      "amount": "3000000",
+      "note": "의류학과",
+      "sort_order": 256,
+      "preview_text": "김문자 교수 3000000"
+    },
+    {
+      "name": "김경학",
+      "amount": "3000000",
+      "note": "영미언어문화",
+      "sort_order": 257,
+      "preview_text": "김경학 교수 3000000"
+    },
+    {
+      "name": "강헌",
+      "amount": "3000000",
+      "note": "환경에너지공학",
+      "sort_order": 259,
+      "preview_text": "강헌 교수 3000000"
+    },
+    {
+      "name": "임선홍",
+      "amount": "2833140",
+      "note": "경영",
+      "sort_order": 267,
+      "preview_text": "임선홍 교수 2833140"
+    },
+    {
+      "name": "김석범",
+      "amount": "2808280",
+      "note": "",
+      "sort_order": 270,
+      "preview_text": "김석범 교수 2808280"
+    },
+    {
+      "name": "김병용",
+      "amount": "2705230",
+      "note": "호텔관광학부",
+      "sort_order": 275,
+      "preview_text": "김병용 교수 2705230"
+    },
+    {
+      "name": "조미나",
+      "amount": "2637750",
+      "note": "호텔관광학부",
+      "sort_order": 279,
+      "preview_text": "조미나 교수 2637750"
+    },
+    {
+      "name": "고승철",
+      "amount": "2599580",
+      "note": "정보보호",
+      "sort_order": 289,
+      "preview_text": "고승철 교수 2599580"
+    },
+    {
+      "name": "장철",
+      "amount": "2558990",
+      "note": "인성교양대학",
+      "sort_order": 290,
+      "preview_text": "장철 교수 2558990"
+    },
+    {
+      "name": "차은정",
+      "amount": "2507820",
+      "note": "간호학과",
+      "sort_order": 294,
+      "preview_text": "차은정 교수 2507820"
+    },
+    {
+      "name": "이다예",
+      "amount": "2421900",
+      "note": "인성교양대학",
+      "sort_order": 297,
+      "preview_text": "이다예 교수 2421900"
+    },
+    {
+      "name": "나애리",
+      "amount": "2393600",
+      "note": "프랑스어문학",
+      "sort_order": 298,
+      "preview_text": "나애리 교수 2393600"
+    },
+    {
+      "name": "조영일",
+      "amount": "2262530",
+      "note": "컴퓨터SW",
+      "sort_order": 304,
+      "preview_text": "조영일 교수 2262530"
+    },
+    {
+      "name": "김현숙",
+      "amount": "2255890",
+      "note": "영어영문학",
+      "sort_order": 305,
+      "preview_text": "김현숙 교수 2255890"
+    },
+    {
+      "name": "김유정",
+      "amount": "2255220",
+      "note": "미디어커뮤니케이션",
+      "sort_order": 306,
+      "preview_text": "김유정 교수 2255220"
+    },
+    {
+      "name": "김영출",
+      "amount": "2251940",
+      "note": "공학대학원",
+      "sort_order": 307,
+      "preview_text": "김영출 교수 2251940"
+    },
+    {
+      "name": "김오숙",
+      "amount": "2213940",
+      "note": "간호학과",
+      "sort_order": 308,
+      "preview_text": "김오숙 교수 2213940"
+    },
+    {
+      "name": "강일휴",
+      "amount": "2114950",
+      "note": "디지털헤리티지",
+      "sort_order": 312,
+      "preview_text": "강일휴 교수 2114950"
+    },
+    {
+      "name": "유성식",
+      "amount": "2040000",
+      "note": "인성교양대학",
+      "sort_order": 315,
+      "preview_text": "유성식 교수 2040000"
+    },
+    {
+      "name": "홍진환",
+      "amount": "2000000",
+      "note": "경영",
+      "sort_order": 320,
+      "preview_text": "홍진환 교수 2000000"
+    },
+    {
+      "name": "허호",
+      "amount": "2000000",
+      "note": "일본언어문화",
+      "sort_order": 321,
+      "preview_text": "허호 교수 2000000"
+    },
+    {
+      "name": "허영",
+      "amount": "2000000",
+      "note": "토목공학과",
+      "sort_order": 322,
+      "preview_text": "허영 교수 2000000"
+    },
+    {
+      "name": "한은주",
+      "amount": "2000000",
+      "note": "전자물리",
+      "sort_order": 323,
+      "preview_text": "한은주 교수 2000000"
+    },
+    {
+      "name": "천소영",
+      "amount": "2000000",
+      "note": "국어국문학과",
+      "sort_order": 325,
+      "preview_text": "천소영 교수 2000000"
+    },
+    {
+      "name": "정석환",
+      "amount": "2000000",
+      "note": "반도체공학과",
+      "sort_order": 328,
+      "preview_text": "정석환 교수 2000000"
+    },
+    {
+      "name": "장지희",
+      "amount": "2000000",
+      "note": "디자인학부",
+      "sort_order": 329,
+      "preview_text": "장지희 교수 2000000"
+    },
+    {
+      "name": "임유진",
+      "amount": "2000000",
+      "note": "정보미디어학과",
+      "sort_order": 331,
+      "preview_text": "임유진 교수 2000000"
+    },
+    {
+      "name": "이진우",
+      "amount": "2000000",
+      "note": "식품영양학과",
+      "sort_order": 332,
+      "preview_text": "이진우 교수 2000000"
+    },
+    {
+      "name": "이종안",
+      "amount": "2000000",
+      "note": "조소",
+      "sort_order": 333,
+      "preview_text": "이종안 교수 2000000"
+    },
+    {
+      "name": "이인순",
+      "amount": "2000000",
+      "note": "인성교양대학",
+      "sort_order": 334,
+      "preview_text": "이인순 교수 2000000"
+    },
+    {
+      "name": "이은진",
+      "amount": "2000000",
+      "note": "사회복지대학원",
+      "sort_order": 335,
+      "preview_text": "이은진 교수 2000000"
+    },
+    {
+      "name": "이은주",
+      "amount": "2000000",
+      "note": "프랑스어문학",
+      "sort_order": 336,
+      "preview_text": "이은주 교수 2000000"
+    },
+    {
+      "name": "이승하",
+      "amount": "2000000",
+      "note": "경제금융",
+      "sort_order": 337,
+      "preview_text": "이승하 교수 2000000"
+    },
+    {
+      "name": "이상홍",
+      "amount": "2000000",
+      "note": "행정학과",
+      "sort_order": 338,
+      "preview_text": "이상홍 교수 2000000"
+    },
+    {
+      "name": "손병돈",
+      "amount": "2000000",
+      "note": "미디어SW",
+      "sort_order": 341,
+      "preview_text": "손병돈 교수 2000000"
+    },
+    {
+      "name": "박필성",
+      "amount": "2000000",
+      "note": "컴퓨터SW",
+      "sort_order": 342,
+      "preview_text": "박필성 교수 2000000"
+    },
+    {
+      "name": "박종수",
+      "amount": "2000000",
+      "note": "언론정보학과",
+      "sort_order": 343,
+      "preview_text": "박종수 교수 2000000"
+    },
+    {
+      "name": "박재성",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 344,
+      "preview_text": "박재성 교수 2000000"
+    },
+    {
+      "name": "김희섭",
+      "amount": "2000000",
+      "note": "식품영양학과",
+      "sort_order": 348,
+      "preview_text": "김희섭 교수 2000000"
+    },
+    {
+      "name": "김형섭",
+      "amount": "2000000",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 349,
+      "preview_text": "김형섭 교수 2000000"
+    },
+    {
+      "name": "김종숙",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 351,
+      "preview_text": "김종숙 교수 2000000"
+    },
+    {
+      "name": "김예성",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 352,
+      "preview_text": "김예성 교수 2000000"
+    },
+    {
+      "name": "김동한",
+      "amount": "2000000",
+      "note": "수학과",
+      "sort_order": 353,
+      "preview_text": "김동한 교수 2000000"
+    },
+    {
+      "name": "권경남",
+      "amount": "2000000",
+      "note": "건축학",
+      "sort_order": 354,
+      "preview_text": "권경남 교수 2000000"
+    },
+    {
+      "name": "양지연",
+      "amount": "1952700",
+      "note": "글로벌비즈니스",
+      "sort_order": 359,
+      "preview_text": "양지연 교수 1952700"
+    },
+    {
+      "name": "김시현",
+      "amount": "1936300",
+      "note": "정보통신",
+      "sort_order": 361,
+      "preview_text": "김시현 교수 1936300"
+    },
+    {
+      "name": "박금주",
+      "amount": "1856360",
+      "note": "간호학과",
+      "sort_order": 364,
+      "preview_text": "박금주 교수 1856360"
+    },
+    {
+      "name": "유도근",
+      "amount": "1750230",
+      "note": "건설환경공학",
+      "sort_order": 368,
+      "preview_text": "유도근 교수 1750230"
+    },
+    {
+      "name": "신혜정",
+      "amount": "1749410",
+      "note": "패션디자인",
+      "sort_order": 369,
+      "preview_text": "신혜정 교수 1749410"
+    },
+    {
+      "name": "주정선",
+      "amount": "1700000",
+      "note": "체육교육",
+      "sort_order": 370,
+      "preview_text": "주정선 교수 1700000"
+    },
+    {
+      "name": "조유호",
+      "amount": "1687050",
+      "note": "취업지원처",
+      "sort_order": 371,
+      "preview_text": "조유호 교수 1687050"
+    },
+    {
+      "name": "송원자",
+      "amount": "1650220",
+      "note": "회계",
+      "sort_order": 374,
+      "preview_text": "송원자 교수 1650220"
+    },
+    {
+      "name": "최창규",
+      "amount": "1650000",
+      "note": "도시부동산개발학과",
+      "sort_order": 375,
+      "preview_text": "최창규 교수 1650000"
+    },
+    {
+      "name": "김정인",
+      "amount": "1645460",
+      "note": "",
+      "sort_order": 377,
+      "preview_text": "김정인 교수 1645460"
+    },
+    {
+      "name": "변희정",
+      "amount": "1643530",
+      "note": "정보통신",
+      "sort_order": 378,
+      "preview_text": "변희정 교수 1643530"
+    },
+    {
+      "name": "박미경",
+      "amount": "1642780",
+      "note": "디지털콘텐츠",
+      "sort_order": 379,
+      "preview_text": "박미경 교수 1642780"
+    },
+    {
+      "name": "이현정",
+      "amount": "1583310",
+      "note": "",
+      "sort_order": 381,
+      "preview_text": "이현정 교수 1583310"
+    },
+    {
+      "name": "김현정",
+      "amount": "1530720",
+      "note": "",
+      "sort_order": 382,
+      "preview_text": "김현정 교수 1530720"
+    },
+    {
+      "name": "최윤희",
+      "amount": "1500000",
+      "note": "언론정보학과",
+      "sort_order": 386,
+      "preview_text": "최윤희 교수 1500000"
+    },
+    {
+      "name": "조희근",
+      "amount": "1500000",
+      "note": "창업지원단",
+      "sort_order": 387,
+      "preview_text": "조희근 교수 1500000"
+    },
+    {
+      "name": "이예나",
+      "amount": "1500000",
+      "note": "간호학과",
+      "sort_order": 388,
+      "preview_text": "이예나 교수 1500000"
+    },
+    {
+      "name": "박창화",
+      "amount": "1500000",
+      "note": "법무감사실",
+      "sort_order": 389,
+      "preview_text": "박창화 교수 1500000"
+    },
+    {
+      "name": "박경희",
+      "amount": "1500000",
+      "note": "간호학과",
+      "sort_order": 390,
+      "preview_text": "박경희 교수 1500000"
+    },
+    {
+      "name": "백영순",
+      "amount": "1423110",
+      "note": "환경에너지공학",
+      "sort_order": 391,
+      "preview_text": "백영순 교수 1423110"
+    },
+    {
+      "name": "방윤형",
+      "amount": "1396020",
+      "note": "일본언어문화",
+      "sort_order": 392,
+      "preview_text": "방윤형 교수 1396020"
+    },
+    {
+      "name": "박선아",
+      "amount": "1378210",
+      "note": "간호학과",
+      "sort_order": 393,
+      "preview_text": "박선아 교수 1378210"
+    },
+    {
+      "name": "김정은",
+      "amount": "1367890",
+      "note": "",
+      "sort_order": 394,
+      "preview_text": "김정은 교수 1367890"
+    },
+    {
+      "name": "이혜승",
+      "amount": "1367540",
+      "note": "러시아언어문화",
+      "sort_order": 395,
+      "preview_text": "이혜승 교수 1367540"
+    },
+    {
+      "name": "연경열",
+      "amount": "1353640",
+      "note": "융합화학산업",
+      "sort_order": 396,
+      "preview_text": "연경열 교수 1353640"
+    },
+    {
+      "name": "한영석",
+      "amount": "1350000",
+      "note": "정보미디어학과",
+      "sort_order": 397,
+      "preview_text": "한영석 교수 1350000"
+    },
+    {
+      "name": "정진명",
+      "amount": "1322010",
+      "note": "데이터과학부",
+      "sort_order": 398,
+      "preview_text": "정진명 교수 1322010"
+    },
+    {
+      "name": "권지현",
+      "amount": "1281460",
+      "note": "패션디자인",
+      "sort_order": 400,
+      "preview_text": "권지현 교수 1281460"
+    },
+    {
+      "name": "정경훈",
+      "amount": "1261930",
+      "note": "식품영양학과",
+      "sort_order": 404,
+      "preview_text": "정경훈 교수 1261930"
+    },
+    {
+      "name": "차승은",
+      "amount": "1253250",
+      "note": "아동가족복지학과",
+      "sort_order": 405,
+      "preview_text": "차승은 교수 1253250"
+    },
+    {
+      "name": "박난영",
+      "amount": "1159560",
+      "note": "중어중문학",
+      "sort_order": 407,
+      "preview_text": "박난영 교수 1159560"
+    },
+    {
+      "name": "김성민",
+      "amount": "1136620",
+      "note": "",
+      "sort_order": 409,
+      "preview_text": "김성민 교수 1136620"
+    },
+    {
+      "name": "주명진",
+      "amount": "1131120",
+      "note": "디지털콘텐츠",
+      "sort_order": 410,
+      "preview_text": "주명진 교수 1131120"
+    },
+    {
+      "name": "김형숙",
+      "amount": "1114580",
+      "note": "식품영양학과",
+      "sort_order": 412,
+      "preview_text": "김형숙 교수 1114580"
+    },
+    {
+      "name": "김지송",
+      "amount": "1077290",
+      "note": "국제개발협력",
+      "sort_order": 416,
+      "preview_text": "김지송 교수 1077290"
+    },
+    {
+      "name": "서정석",
+      "amount": "1033020",
+      "note": "산학협력단",
+      "sort_order": 418,
+      "preview_text": "서정석 교수 1033020"
+    },
+    {
+      "name": "장영나",
+      "amount": "1000400",
+      "note": "디자인학부",
+      "sort_order": 419,
+      "preview_text": "장영나 교수 1000400"
+    },
+    {
+      "name": "홍보경",
+      "amount": "1000000",
+      "note": "관현악과",
+      "sort_order": 420,
+      "preview_text": "홍보경 교수 1000000"
+    },
+    {
+      "name": "천세정",
+      "amount": "1000000",
+      "note": "피아노과",
+      "sort_order": 425,
+      "preview_text": "천세정 교수 1000000"
+    },
+    {
+      "name": "차동민",
+      "amount": "1000000",
+      "note": "글로벌비즈니스",
+      "sort_order": 427,
+      "preview_text": "차동민 교수 1000000"
+    },
+    {
+      "name": "조현호",
+      "amount": "1000000",
+      "note": "미래융합교육원",
+      "sort_order": 431,
+      "preview_text": "조현호 교수 1000000"
+    },
+    {
+      "name": "정영교",
+      "amount": "1000000",
+      "note": "수소자동차전공",
+      "sort_order": 432,
+      "preview_text": "정영교 교수 1000000"
+    },
+    {
+      "name": "정양운",
+      "amount": "1000000",
+      "note": "경영",
+      "sort_order": 433,
+      "preview_text": "정양운 교수 1000000"
+    },
+    {
+      "name": "이형석",
+      "amount": "1000000",
+      "note": "건축학",
+      "sort_order": 436,
+      "preview_text": "이형석 교수 1000000"
+    },
+    {
+      "name": "이의정",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 439,
+      "preview_text": "이의정 교수 1000000"
+    },
+    {
+      "name": "이영일",
+      "amount": "1000000",
+      "note": "전기공학",
+      "sort_order": 441,
+      "preview_text": "이영일 교수 1000000"
+    },
+    {
+      "name": "오혜숙",
+      "amount": "1000000",
+      "note": "관현악과",
+      "sort_order": 446,
+      "preview_text": "오혜숙 교수 1000000"
+    },
+    {
+      "name": "양정하",
+      "amount": "1000000",
+      "note": "간호학과",
+      "sort_order": 449,
+      "preview_text": "양정하 교수 1000000"
+    },
+    {
+      "name": "안경환",
+      "amount": "1000000",
+      "note": "건축공학과",
+      "sort_order": 451,
+      "preview_text": "안경환 교수 1000000"
+    },
+    {
+      "name": "심재호",
+      "amount": "1000000",
+      "note": "산학협력단",
+      "sort_order": 452,
+      "preview_text": "심재호 교수 1000000"
+    },
+    {
+      "name": "송민규",
+      "amount": "1000000",
+      "note": "한국언어문화",
+      "sort_order": 455,
+      "preview_text": "송민규 교수 1000000"
+    },
+    {
+      "name": "배애령",
+      "amount": "1000000",
+      "note": "성악과",
+      "sort_order": 456,
+      "preview_text": "배애령 교수 1000000"
+    },
+    {
+      "name": "박성진",
+      "amount": "1000000",
+      "note": "미래융합교육원",
+      "sort_order": 459,
+      "preview_text": "박성진 교수 1000000"
+    },
+    {
+      "name": "민성훈",
+      "amount": "1000000",
+      "note": "도시부동산학",
+      "sort_order": 461,
+      "preview_text": "민성훈 교수 1000000"
+    },
+    {
+      "name": "김현",
+      "amount": "1000000",
+      "note": "미디어커뮤니케이션",
+      "sort_order": 468,
+      "preview_text": "김현 교수 1000000"
+    },
+    {
+      "name": "김장영",
+      "amount": "1000000",
+      "note": "컴퓨터SW",
+      "sort_order": 470,
+      "preview_text": "김장영 교수 1000000"
+    },
+    {
+      "name": "김상준",
+      "amount": "1000000",
+      "note": "산학협력단",
+      "sort_order": 472,
+      "preview_text": "김상준 교수 1000000"
+    },
+    {
+      "name": "김동원",
+      "amount": "1000000",
+      "note": "회계",
+      "sort_order": 473,
+      "preview_text": "김동원 교수 1000000"
+    },
+    {
+      "name": "김대엽",
+      "amount": "1000000",
+      "note": "정보보호",
+      "sort_order": 474,
+      "preview_text": "김대엽 교수 1000000"
+    },
+    {
+      "name": "권지원",
+      "amount": "1000000",
+      "note": "아크앤테크놀로지작곡",
+      "sort_order": 475,
+      "preview_text": "권지원 교수 1000000"
+    },
+    {
+      "name": "홍석우",
+      "amount": "979950",
+      "note": "기계공학",
+      "sort_order": 489,
+      "preview_text": "홍석우 교수 979950"
+    },
+    {
+      "name": "안창주",
+      "amount": "931550",
+      "note": "산학협력단",
+      "sort_order": 490,
+      "preview_text": "안창주 교수 931550"
+    },
+    {
+      "name": "양기찬",
+      "amount": "876960",
+      "note": "연기예술",
+      "sort_order": 493,
+      "preview_text": "양기찬 교수 876960"
+    },
+    {
+      "name": "윤성원",
+      "amount": "834250",
+      "note": "글로벌비즈니스",
+      "sort_order": 494,
+      "preview_text": "윤성원 교수 834250"
+    },
+    {
+      "name": "권민",
+      "amount": "799630",
+      "note": "간호학과",
+      "sort_order": 495,
+      "preview_text": "권민 교수 799630"
+    },
+    {
+      "name": "정원준",
+      "amount": "725260",
+      "note": "미디어커뮤니케이션",
+      "sort_order": 497,
+      "preview_text": "정원준 교수 725260"
+    },
+    {
+      "name": "권지혜",
+      "amount": "711380",
+      "note": "법학",
+      "sort_order": 498,
+      "preview_text": "권지혜 교수 711380"
+    },
+    {
+      "name": "유지은",
+      "amount": "697930",
+      "note": "공예디자인",
+      "sort_order": 499,
+      "preview_text": "유지은 교수 697930"
+    },
+    {
+      "name": "홍태민",
+      "amount": "680000",
+      "note": "산학협력단",
+      "sort_order": 500,
+      "preview_text": "홍태민 교수 680000"
+    },
+    {
+      "name": "김영환",
+      "amount": "637140",
+      "note": "디지털콘텐츠",
+      "sort_order": 501,
+      "preview_text": "김영환 교수 637140"
+    },
+    {
+      "name": "박성모",
+      "amount": "631600",
+      "note": "",
+      "sort_order": 502,
+      "preview_text": "박성모 교수 631600"
+    },
+    {
+      "name": "손창일",
+      "amount": "629840",
+      "note": "법학",
+      "sort_order": 503,
+      "preview_text": "손창일 교수 629840"
+    },
+    {
+      "name": "임승희",
+      "amount": "627040",
+      "note": "경영",
+      "sort_order": 504,
+      "preview_text": "임승희 교수 627040"
+    },
+    {
+      "name": "안홍렬",
+      "amount": "620770",
+      "note": "데이터과학부",
+      "sort_order": 505,
+      "preview_text": "안홍렬 교수 620770"
+    },
+    {
+      "name": "윤병국",
+      "amount": "600000",
+      "note": "산업공학",
+      "sort_order": 506,
+      "preview_text": "윤병국 교수 600000"
+    },
+    {
+      "name": "김용준",
+      "amount": "600000",
+      "note": "전기공학",
+      "sort_order": 507,
+      "preview_text": "김용준 교수 600000"
+    },
+    {
+      "name": "배철민",
+      "amount": "527550",
+      "note": "산학협력단",
+      "sort_order": 508,
+      "preview_text": "배철민 교수 527550"
+    },
+    {
+      "name": "박찬윤",
+      "amount": "521670",
+      "note": "식품영양학과",
+      "sort_order": 509,
+      "preview_text": "박찬윤 교수 521670"
+    },
+    {
+      "name": "김혜수",
+      "amount": "513360",
+      "note": "유아교육",
+      "sort_order": 510,
+      "preview_text": "김혜수 교수 513360"
+    },
+    {
+      "name": "김성희",
+      "amount": "509180",
+      "note": "",
+      "sort_order": 511,
+      "preview_text": "김성희 교수 509180"
+    },
+    {
+      "name": "정주영",
+      "amount": "500000",
+      "note": "전자공학",
+      "sort_order": 512,
+      "preview_text": "정주영 교수 500000"
+    },
+    {
+      "name": "이택호",
+      "amount": "500000",
+      "note": "미래융합교육원",
+      "sort_order": 514,
+      "preview_text": "이택호 교수 500000"
+    },
+    {
+      "name": "이진",
+      "amount": "500000",
+      "note": "음악학과",
+      "sort_order": 516,
+      "preview_text": "이진 교수 500000"
+    },
+    {
+      "name": "이주하",
+      "amount": "500000",
+      "note": "건설환경공학",
+      "sort_order": 517,
+      "preview_text": "이주하 교수 500000"
+    },
+    {
+      "name": "윤면식",
+      "amount": "500000",
+      "note": "경제금융",
+      "sort_order": 518,
+      "preview_text": "윤면식 교수 500000"
+    },
+    {
+      "name": "김현주",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 522,
+      "preview_text": "김현주 교수 500000"
+    },
+    {
+      "name": "김창회",
+      "amount": "500000",
+      "note": "소방행정",
+      "sort_order": 523,
+      "preview_text": "김창회 교수 500000"
+    },
+    {
+      "name": "김기선",
+      "amount": "500000",
+      "note": "글로벌창업대학원",
+      "sort_order": 525,
+      "preview_text": "김기선 교수 500000"
+    },
+    {
+      "name": "임경",
+      "amount": "421600",
+      "note": "경영",
+      "sort_order": 528,
+      "preview_text": "임경 교수 421600"
+    },
+    {
+      "name": "박창섭",
+      "amount": "420000",
+      "note": "인터넷정보공학과",
+      "sort_order": 529,
+      "preview_text": "박창섭 교수 420000"
+    },
+    {
+      "name": "김우성",
+      "amount": "409320",
+      "note": "전자공학",
+      "sort_order": 530,
+      "preview_text": "김우성 교수 409320"
+    },
+    {
+      "name": "백승기",
+      "amount": "360000",
+      "note": "환경에너지공학",
+      "sort_order": 533,
+      "preview_text": "백승기 교수 360000"
+    },
+    {
+      "name": "권형안",
+      "amount": "360000",
+      "note": "환경에너지공학",
+      "sort_order": 534,
+      "preview_text": "권형안 교수 360000"
+    },
+    {
+      "name": "우문균",
+      "amount": "341730",
+      "note": "교양대학",
+      "sort_order": 535,
+      "preview_text": "우문균 교수 341730"
+    },
+    {
+      "name": "이은곤",
+      "amount": "321550",
+      "note": "경영",
+      "sort_order": 536,
+      "preview_text": "이은곤 교수 321550"
+    },
+    {
+      "name": "노호식",
+      "amount": "318200",
+      "note": "화학공학",
+      "sort_order": 537,
+      "preview_text": "노호식 교수 318200"
+    },
+    {
+      "name": "손미리",
+      "amount": "313420",
+      "note": "중국언어문화",
+      "sort_order": 538,
+      "preview_text": "손미리 교수 313420"
+    },
+    {
+      "name": "김정민",
+      "amount": "309790",
+      "note": "",
+      "sort_order": 539,
+      "preview_text": "김정민 교수 309790"
+    },
+    {
+      "name": "황용득",
+      "amount": "300000",
+      "note": "데이터과학부",
+      "sort_order": 540,
+      "preview_text": "황용득 교수 300000"
+    },
+    {
+      "name": "조민경",
+      "amount": "300000",
+      "note": "미래융합교육원",
+      "sort_order": 542,
+      "preview_text": "조민경 교수 300000"
+    },
+    {
+      "name": "이성주",
+      "amount": "300000",
+      "note": "피아노과",
+      "sort_order": 544,
+      "preview_text": "이성주 교수 300000"
+    },
+    {
+      "name": "이석민",
+      "amount": "300000",
+      "note": "공공정책대학원",
+      "sort_order": 545,
+      "preview_text": "이석민 교수 300000"
+    },
+    {
+      "name": "오세란",
+      "amount": "300000",
+      "note": "미래융합교육원",
+      "sort_order": 546,
+      "preview_text": "오세란 교수 300000"
+    },
+    {
+      "name": "소원근",
+      "amount": "300000",
+      "note": "경영",
+      "sort_order": 548,
+      "preview_text": "소원근 교수 300000"
+    },
+    {
+      "name": "박현호",
+      "amount": "300000",
+      "note": "전자공학",
+      "sort_order": 549,
+      "preview_text": "박현호 교수 300000"
+    },
+    {
+      "name": "박진혁",
+      "amount": "300000",
+      "note": "화학공학",
+      "sort_order": 550,
+      "preview_text": "박진혁 교수 300000"
+    },
+    {
+      "name": "정요안",
+      "amount": "250000",
+      "note": "소방행정",
+      "sort_order": 559,
+      "preview_text": "정요안 교수 250000"
+    },
+    {
+      "name": "이장욱",
+      "amount": "246880",
+      "note": "영화영상",
+      "sort_order": 564,
+      "preview_text": "이장욱 교수 246880"
+    },
+    {
+      "name": "최경오",
+      "amount": "245290",
+      "note": "화학공학",
+      "sort_order": 565,
+      "preview_text": "최경오 교수 245290"
+    },
+    {
+      "name": "김현상",
+      "amount": "234660",
+      "note": "체육학",
+      "sort_order": 566,
+      "preview_text": "김현상 교수 234660"
+    },
+    {
+      "name": "이용석",
+      "amount": "216660",
+      "note": "기계공학",
+      "sort_order": 568,
+      "preview_text": "이용석 교수 216660"
+    },
+    {
+      "name": "임병화",
+      "amount": "211360",
+      "note": "경제금융",
+      "sort_order": 569,
+      "preview_text": "임병화 교수 211360"
+    },
+    {
+      "name": "하태형",
+      "amount": "200000",
+      "note": "경제금융",
+      "sort_order": 571,
+      "preview_text": "하태형 교수 200000"
+    },
+    {
+      "name": "이보연",
+      "amount": "200000",
+      "note": "건축학",
+      "sort_order": 572,
+      "preview_text": "이보연 교수 200000"
+    },
+    {
+      "name": "유기태",
+      "amount": "200000",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 573,
+      "preview_text": "유기태 교수 200000"
+    },
+    {
+      "name": "손영선",
+      "amount": "200000",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 575,
+      "preview_text": "손영선 교수 200000"
+    },
+    {
+      "name": "박효남",
+      "amount": "200000",
+      "note": "창업지원단",
+      "sort_order": 576,
+      "preview_text": "박효남 교수 200000"
+    },
+    {
+      "name": "나혜수",
+      "amount": "200000",
+      "note": "관현악과",
+      "sort_order": 578,
+      "preview_text": "나혜수 교수 200000"
+    },
+    {
+      "name": "김영수",
+      "amount": "200000",
+      "note": "",
+      "sort_order": 580,
+      "preview_text": "김영수 교수 200000"
+    },
+    {
+      "name": "김시내",
+      "amount": "200000",
+      "note": "관현악과",
+      "sort_order": 581,
+      "preview_text": "김시내 교수 200000"
+    },
+    {
+      "name": "김극태",
+      "amount": "200000",
+      "note": "환경에너지공학",
+      "sort_order": 583,
+      "preview_text": "김극태 교수 200000"
+    },
+    {
+      "name": "김준현",
+      "amount": "199100",
+      "note": "바이오공학 및 마케팅",
+      "sort_order": 585,
+      "preview_text": "김준현 교수 199100"
+    },
+    {
+      "name": "김남헌",
+      "amount": "159810",
+      "note": "전자재료공학",
+      "sort_order": 587,
+      "preview_text": "김남헌 교수 159810"
+    },
+    {
+      "name": "김석군",
+      "amount": "153830",
+      "note": "전자재료공학",
+      "sort_order": 588,
+      "preview_text": "김석군 교수 153830"
+    },
+    {
+      "name": "이정우",
+      "amount": "150000",
+      "note": "미래융합교육원",
+      "sort_order": 591,
+      "preview_text": "이정우 교수 150000"
+    },
+    {
+      "name": "최종학",
+      "amount": "146730",
+      "note": "창업지원단",
+      "sort_order": 592,
+      "preview_text": "최종학 교수 146730"
+    },
+    {
+      "name": "홍정유",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 595,
+      "preview_text": "홍정유 교수 100000"
+    },
+    {
+      "name": "한병재",
+      "amount": "100000",
+      "note": "평생교육원",
+      "sort_order": 596,
+      "preview_text": "한병재 교수 100000"
+    },
+    {
+      "name": "최은규",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 597,
+      "preview_text": "최은규 교수 100000"
+    },
+    {
+      "name": "지연신",
+      "amount": "100000",
+      "note": "평생교육원",
+      "sort_order": 598,
+      "preview_text": "지연신 교수 100000"
+    },
+    {
+      "name": "주진혁",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 599,
+      "preview_text": "주진혁 교수 100000"
+    },
+    {
+      "name": "주영옥",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 600,
+      "preview_text": "주영옥 교수 100000"
+    },
+    {
+      "name": "정희자",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 601,
+      "preview_text": "정희자 교수 100000"
+    },
+    {
+      "name": "이철원",
+      "amount": "100000",
+      "note": "소방행정",
+      "sort_order": 602,
+      "preview_text": "이철원 교수 100000"
+    },
+    {
+      "name": "이승아",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 603,
+      "preview_text": "이승아 교수 100000"
+    },
+    {
+      "name": "이수형",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 604,
+      "preview_text": "이수형 교수 100000"
+    },
+    {
+      "name": "이성은",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 605,
+      "preview_text": "이성은 교수 100000"
+    },
+    {
+      "name": "이선",
+      "amount": "100000",
+      "note": "",
+      "sort_order": 606,
+      "preview_text": "이선 교수 100000"
+    },
+    {
+      "name": "이동진",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 607,
+      "preview_text": "이동진 교수 100000"
+    },
+    {
+      "name": "유기성",
+      "amount": "100000",
+      "note": "평생교육원",
+      "sort_order": 608,
+      "preview_text": "유기성 교수 100000"
+    },
+    {
+      "name": "오지훈",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 609,
+      "preview_text": "오지훈 교수 100000"
+    },
+    {
+      "name": "오정극",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 610,
+      "preview_text": "오정극 교수 100000"
+    },
+    {
+      "name": "양윤경",
+      "amount": "100000",
+      "note": "뮤직프로페셔널학과",
+      "sort_order": 611,
+      "preview_text": "양윤경 교수 100000"
+    },
+    {
+      "name": "안주희",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 612,
+      "preview_text": "안주희 교수 100000"
+    },
+    {
+      "name": "심향보",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 613,
+      "preview_text": "심향보 교수 100000"
+    },
+    {
+      "name": "신진이",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 614,
+      "preview_text": "신진이 교수 100000"
+    },
+    {
+      "name": "신이선",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 615,
+      "preview_text": "신이선 교수 100000"
+    },
+    {
+      "name": "송주현",
+      "amount": "100000",
+      "note": "평생교육원",
+      "sort_order": 616,
+      "preview_text": "송주현 교수 100000"
+    },
+    {
+      "name": "송선희",
+      "amount": "100000",
+      "note": "음악학과",
+      "sort_order": 617,
+      "preview_text": "송선희 교수 100000"
+    },
+    {
+      "name": "서흥순",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 618,
+      "preview_text": "서흥순 교수 100000"
+    },
+    {
+      "name": "서옥선",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 619,
+      "preview_text": "서옥선 교수 100000"
+    },
+    {
+      "name": "박형근",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 620,
+      "preview_text": "박형근 교수 100000"
+    },
+    {
+      "name": "박만석",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 621,
+      "preview_text": "박만석 교수 100000"
+    },
+    {
+      "name": "문한일",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 622,
+      "preview_text": "문한일 교수 100000"
+    },
+    {
+      "name": "노승철",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 623,
+      "preview_text": "노승철 교수 100000"
+    },
+    {
+      "name": "김재흥",
+      "amount": "100000",
+      "note": "",
+      "sort_order": 624,
+      "preview_text": "김재흥 교수 100000"
+    },
+    {
+      "name": "김오웅",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 625,
+      "preview_text": "김오웅 교수 100000"
+    },
+    {
+      "name": "김복열",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 626,
+      "preview_text": "김복열 교수 100000"
+    },
+    {
+      "name": "김나진",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 628,
+      "preview_text": "김나진 교수 100000"
+    },
+    {
+      "name": "김경숙",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 629,
+      "preview_text": "김경숙 교수 100000"
+    },
+    {
+      "name": "김경미",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 630,
+      "preview_text": "김경미 교수 100000"
+    },
+    {
+      "name": "길정현",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 631,
+      "preview_text": "길정현 교수 100000"
+    },
+    {
+      "name": "곽상",
+      "amount": "100000",
+      "note": "인성교양대학",
+      "sort_order": 632,
+      "preview_text": "곽상 교수 100000"
+    },
+    {
+      "name": "강훈",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 633,
+      "preview_text": "강훈 교수 100000"
+    },
+    {
+      "name": "강준구",
+      "amount": "100000",
+      "note": "미래융합교육원",
+      "sort_order": 634,
+      "preview_text": "강준구 교수 100000"
+    },
+    {
+      "name": "김명선",
+      "amount": "84440",
+      "note": "정보보호",
+      "sort_order": 635,
+      "preview_text": "김명선 교수 84440"
+    },
+    {
+      "name": "고봉재",
+      "amount": "47020",
+      "note": "컴퓨터SW",
+      "sort_order": 640,
+      "preview_text": "고봉재 교수 47020"
+    },
+    {
+      "name": "서유경",
+      "amount": "44700",
+      "note": "러시아어문학",
+      "sort_order": 641,
+      "preview_text": "서유경 교수 44700"
+    },
+    {
+      "name": "김정훈",
+      "amount": "36060",
+      "note": "",
+      "sort_order": 643,
+      "preview_text": "김정훈 교수 36060"
+    },
+    {
+      "name": "박상섭",
+      "amount": "26000",
+      "note": "회계",
+      "sort_order": 645,
+      "preview_text": "박상섭 교수 26000"
+    },
+    {
+      "name": "박행원",
+      "amount": "24570",
+      "note": "전기공학",
+      "sort_order": 646,
+      "preview_text": "박행원 교수 24570"
+    },
+    {
+      "name": "김윤희",
+      "amount": "16290",
+      "note": "교육대학원",
+      "sort_order": 650,
+      "preview_text": "김윤희 교수 16290"
+    },
+    {
+      "name": "미도리",
+      "amount": "13290",
+      "note": "일본언어문화",
+      "sort_order": 651,
+      "preview_text": "미도리 교수 13290"
+    },
+    {
+      "name": "김준태",
+      "amount": "12600",
+      "note": "산학협력단",
+      "sort_order": 653,
+      "preview_text": "김준태 교수 12600"
     }
   ],
   "staff": [
     {
-      "name": "전혜원",
-      "amount": "1만원",
-      "note": "국제협력팀",
-      "sort_order": 19,
-      "preview_text": "전혜원 직원 1만원"
+      "name": "조희경",
+      "amount": "11000000",
+      "note": "언론정보학과",
+      "sort_order": 34,
+      "preview_text": "조희경 직원 11000000"
+    },
+    {
+      "name": "김수동",
+      "amount": "9812690",
+      "note": "",
+      "sort_order": 53,
+      "preview_text": "김수동 직원 9812690"
+    },
+    {
+      "name": "박순종",
+      "amount": "7974740",
+      "note": "",
+      "sort_order": 64,
+      "preview_text": "박순종 직원 7974740"
+    },
+    {
+      "name": "김승영",
+      "amount": "5679470",
+      "note": "",
+      "sort_order": 101,
+      "preview_text": "김승영 직원 5679470"
+    },
+    {
+      "name": "정재명",
+      "amount": "5423620",
+      "note": "",
+      "sort_order": 107,
+      "preview_text": "정재명 직원 5423620"
+    },
+    {
+      "name": "신성규",
+      "amount": "5331730",
+      "note": "",
+      "sort_order": 111,
+      "preview_text": "신성규 직원 5331730"
+    },
+    {
+      "name": "채희자",
+      "amount": "4682030",
+      "note": "",
+      "sort_order": 150,
+      "preview_text": "채희자 직원 4682030"
+    },
+    {
+      "name": "조규남",
+      "amount": "4500000",
+      "note": "",
+      "sort_order": 161,
+      "preview_text": "조규남 직원 4500000"
+    },
+    {
+      "name": "최희동",
+      "amount": "4200000",
+      "note": "",
+      "sort_order": 169,
+      "preview_text": "최희동 직원 4200000"
+    },
+    {
+      "name": "유준일",
+      "amount": "4125000",
+      "note": "",
+      "sort_order": 171,
+      "preview_text": "유준일 직원 4125000"
+    },
+    {
+      "name": "한은성",
+      "amount": "4124780",
+      "note": "",
+      "sort_order": 172,
+      "preview_text": "한은성 직원 4124780"
+    },
+    {
+      "name": "나종현",
+      "amount": "4077970",
+      "note": "",
+      "sort_order": 174,
+      "preview_text": "나종현 직원 4077970"
+    },
+    {
+      "name": "심영우",
+      "amount": "4074360",
+      "note": "",
+      "sort_order": 176,
+      "preview_text": "심영우 직원 4074360"
+    },
+    {
+      "name": "김동현",
+      "amount": "4029140",
+      "note": "",
+      "sort_order": 177,
+      "preview_text": "김동현 직원 4029140"
+    },
+    {
+      "name": "김종모",
+      "amount": "3790000",
+      "note": "",
+      "sort_order": 197,
+      "preview_text": "김종모 직원 3790000"
+    },
+    {
+      "name": "김선용",
+      "amount": "3771130",
+      "note": "",
+      "sort_order": 199,
+      "preview_text": "김선용 직원 3771130"
+    },
+    {
+      "name": "남경호",
+      "amount": "3686470",
+      "note": "",
+      "sort_order": 202,
+      "preview_text": "남경호 직원 3686470"
+    },
+    {
+      "name": "윤병권",
+      "amount": "3600500",
+      "note": "",
+      "sort_order": 205,
+      "preview_text": "윤병권 직원 3600500"
+    },
+    {
+      "name": "김동걸",
+      "amount": "3433660",
+      "note": "",
+      "sort_order": 215,
+      "preview_text": "김동걸 직원 3433660"
+    },
+    {
+      "name": "이금주",
+      "amount": "3403940",
+      "note": "",
+      "sort_order": 218,
+      "preview_text": "이금주 직원 3403940"
+    },
+    {
+      "name": "박영훈",
+      "amount": "3354000",
+      "note": "",
+      "sort_order": 224,
+      "preview_text": "박영훈 직원 3354000"
+    },
+    {
+      "name": "이강용",
+      "amount": "3348090",
+      "note": "",
+      "sort_order": 225,
+      "preview_text": "이강용 직원 3348090"
+    },
+    {
+      "name": "정인구",
+      "amount": "3292900",
+      "note": "",
+      "sort_order": 227,
+      "preview_text": "정인구 직원 3292900"
+    },
+    {
+      "name": "박준웅",
+      "amount": "3050340",
+      "note": "",
+      "sort_order": 234,
+      "preview_text": "박준웅 직원 3050340"
+    },
+    {
+      "name": "정지훈",
+      "amount": "2968850",
+      "note": "총무팀",
+      "sort_order": 262,
+      "preview_text": "정지훈 직원 2968850"
+    },
+    {
+      "name": "윤혜진",
+      "amount": "2916690",
+      "note": "",
+      "sort_order": 263,
+      "preview_text": "윤혜진 직원 2916690"
+    },
+    {
+      "name": "김영화",
+      "amount": "2906490",
+      "note": "",
+      "sort_order": 264,
+      "preview_text": "김영화 직원 2906490"
+    },
+    {
+      "name": "허광회",
+      "amount": "2880440",
+      "note": "",
+      "sort_order": 265,
+      "preview_text": "허광회 직원 2880440"
+    },
+    {
+      "name": "이인균",
+      "amount": "2880000",
+      "note": "",
+      "sort_order": 266,
+      "preview_text": "이인균 직원 2880000"
+    },
+    {
+      "name": "이상면",
+      "amount": "2825000",
+      "note": "",
+      "sort_order": 268,
+      "preview_text": "이상면 직원 2825000"
+    },
+    {
+      "name": "이규옥",
+      "amount": "2813000",
+      "note": "",
+      "sort_order": 269,
+      "preview_text": "이규옥 직원 2813000"
+    },
+    {
+      "name": "송정애",
+      "amount": "2794280",
+      "note": "",
+      "sort_order": 272,
+      "preview_text": "송정애 직원 2794280"
+    },
+    {
+      "name": "김명철",
+      "amount": "2790000",
+      "note": "",
+      "sort_order": 273,
+      "preview_text": "김명철 직원 2790000"
+    },
+    {
+      "name": "김인현",
+      "amount": "2714000",
+      "note": "",
+      "sort_order": 274,
+      "preview_text": "김인현 직원 2714000"
+    },
+    {
+      "name": "문선재",
+      "amount": "2676400",
+      "note": "",
+      "sort_order": 277,
+      "preview_text": "문선재 직원 2676400"
+    },
+    {
+      "name": "최승규",
+      "amount": "2646750",
+      "note": "",
+      "sort_order": 278,
+      "preview_text": "최승규 직원 2646750"
+    },
+    {
+      "name": "차은희",
+      "amount": "2635140",
+      "note": "",
+      "sort_order": 280,
+      "preview_text": "차은희 직원 2635140"
+    },
+    {
+      "name": "김기태",
+      "amount": "2630790",
+      "note": "",
+      "sort_order": 281,
+      "preview_text": "김기태 직원 2630790"
+    },
+    {
+      "name": "김승수",
+      "amount": "2630360",
+      "note": "",
+      "sort_order": 282,
+      "preview_text": "김승수 직원 2630360"
+    },
+    {
+      "name": "송점종",
+      "amount": "2620680",
+      "note": "",
+      "sort_order": 283,
+      "preview_text": "송점종 직원 2620680"
+    },
+    {
+      "name": "김호영",
+      "amount": "2612230",
+      "note": "",
+      "sort_order": 284,
+      "preview_text": "김호영 직원 2612230"
+    },
+    {
+      "name": "강혁",
+      "amount": "2608920",
+      "note": "",
+      "sort_order": 285,
+      "preview_text": "강혁 직원 2608920"
+    },
+    {
+      "name": "박현주",
+      "amount": "2608300",
+      "note": "",
+      "sort_order": 286,
+      "preview_text": "박현주 직원 2608300"
+    },
+    {
+      "name": "방이화",
+      "amount": "2602100",
+      "note": "",
+      "sort_order": 287,
+      "preview_text": "방이화 직원 2602100"
+    },
+    {
+      "name": "최대훈",
+      "amount": "2600000",
+      "note": "",
+      "sort_order": 288,
+      "preview_text": "최대훈 직원 2600000"
+    },
+    {
+      "name": "주여진",
+      "amount": "2554900",
+      "note": "",
+      "sort_order": 291,
+      "preview_text": "주여진 직원 2554900"
+    },
+    {
+      "name": "박경민",
+      "amount": "2529510",
+      "note": "",
+      "sort_order": 292,
+      "preview_text": "박경민 직원 2529510"
+    },
+    {
+      "name": "이용재",
+      "amount": "2520850",
+      "note": "",
+      "sort_order": 293,
+      "preview_text": "이용재 직원 2520850"
+    },
+    {
+      "name": "장수정",
+      "amount": "2485670",
+      "note": "",
+      "sort_order": 296,
+      "preview_text": "장수정 직원 2485670"
+    },
+    {
+      "name": "박은지",
+      "amount": "2364220",
+      "note": "",
+      "sort_order": 299,
+      "preview_text": "박은지 직원 2364220"
+    },
+    {
+      "name": "박경훈",
+      "amount": "2364170",
+      "note": "",
+      "sort_order": 300,
+      "preview_text": "박경훈 직원 2364170"
+    },
+    {
+      "name": "박기철",
+      "amount": "2361850",
+      "note": "",
+      "sort_order": 301,
+      "preview_text": "박기철 직원 2361850"
+    },
+    {
+      "name": "황지선",
+      "amount": "2329430",
+      "note": "",
+      "sort_order": 302,
+      "preview_text": "황지선 직원 2329430"
+    },
+    {
+      "name": "이상윤",
+      "amount": "2300000",
+      "note": "",
+      "sort_order": 303,
+      "preview_text": "이상윤 직원 2300000"
+    },
+    {
+      "name": "황성웅",
+      "amount": "2171080",
+      "note": "",
+      "sort_order": 309,
+      "preview_text": "황성웅 직원 2171080"
+    },
+    {
+      "name": "임경용",
+      "amount": "2164690",
+      "note": "",
+      "sort_order": 310,
+      "preview_text": "임경용 직원 2164690"
+    },
+    {
+      "name": "남기호",
+      "amount": "2128920",
+      "note": "",
+      "sort_order": 311,
+      "preview_text": "남기호 직원 2128920"
+    },
+    {
+      "name": "신승훈",
+      "amount": "2104430",
+      "note": "",
+      "sort_order": 313,
+      "preview_text": "신승훈 직원 2104430"
+    },
+    {
+      "name": "이정민",
+      "amount": "2040000",
+      "note": "",
+      "sort_order": 314,
+      "preview_text": "이정민 직원 2040000"
+    },
+    {
+      "name": "김명호",
+      "amount": "2040000",
+      "note": "",
+      "sort_order": 316,
+      "preview_text": "김명호 직원 2040000"
+    },
+    {
+      "name": "강효순",
+      "amount": "2040000",
+      "note": "",
+      "sort_order": 317,
+      "preview_text": "강효순 직원 2040000"
+    },
+    {
+      "name": "장동승",
+      "amount": "2004240",
+      "note": "",
+      "sort_order": 319,
+      "preview_text": "장동승 직원 2004240"
+    },
+    {
+      "name": "한영찬",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 324,
+      "preview_text": "한영찬 직원 2000000"
+    },
+    {
+      "name": "장응환",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 330,
+      "preview_text": "장응환 직원 2000000"
+    },
+    {
+      "name": "송기임",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 340,
+      "preview_text": "송기임 직원 2000000"
+    },
+    {
+      "name": "김주정",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 350,
+      "preview_text": "김주정 직원 2000000"
+    },
+    {
+      "name": "국용호",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 355,
+      "preview_text": "국용호 직원 2000000"
+    },
+    {
+      "name": "김준범",
+      "amount": "1994160",
+      "note": "",
+      "sort_order": 358,
+      "preview_text": "김준범 직원 1994160"
+    },
+    {
+      "name": "유명수",
+      "amount": "1937590",
+      "note": "",
+      "sort_order": 360,
+      "preview_text": "유명수 직원 1937590"
+    },
+    {
+      "name": "오창윤",
+      "amount": "1934780",
+      "note": "",
+      "sort_order": 362,
+      "preview_text": "오창윤 직원 1934780"
+    },
+    {
+      "name": "홍덕기",
+      "amount": "1860650",
+      "note": "",
+      "sort_order": 363,
+      "preview_text": "홍덕기 직원 1860650"
+    },
+    {
+      "name": "안재찬",
+      "amount": "1850160",
+      "note": "",
+      "sort_order": 365,
+      "preview_text": "안재찬 직원 1850160"
+    },
+    {
+      "name": "염동규",
+      "amount": "1820000",
+      "note": "",
+      "sort_order": 366,
+      "preview_text": "염동규 직원 1820000"
+    },
+    {
+      "name": "김광래",
+      "amount": "1755000",
+      "note": "",
+      "sort_order": 367,
+      "preview_text": "김광래 직원 1755000"
+    },
+    {
+      "name": "강재호",
+      "amount": "1682090",
+      "note": "",
+      "sort_order": 372,
+      "preview_text": "강재호 직원 1682090"
+    },
+    {
+      "name": "하국종",
+      "amount": "1677960",
+      "note": "",
+      "sort_order": 373,
+      "preview_text": "하국종 직원 1677960"
+    },
+    {
+      "name": "김부열",
+      "amount": "1650000",
+      "note": "",
+      "sort_order": 376,
+      "preview_text": "김부열 직원 1650000"
+    },
+    {
+      "name": "이상영",
+      "amount": "1516630",
+      "note": "",
+      "sort_order": 383,
+      "preview_text": "이상영 직원 1516630"
+    },
+    {
+      "name": "편경범",
+      "amount": "1500000",
+      "note": "",
+      "sort_order": 384,
+      "preview_text": "편경범 직원 1500000"
+    },
+    {
+      "name": "최진봉",
+      "amount": "1500000",
+      "note": "",
+      "sort_order": 385,
+      "preview_text": "최진봉 직원 1500000"
+    },
+    {
+      "name": "장인찬",
+      "amount": "1300000",
+      "note": "",
+      "sort_order": 399,
+      "preview_text": "장인찬 직원 1300000"
+    },
+    {
+      "name": "양연화",
+      "amount": "1280440",
+      "note": "간호학과",
+      "sort_order": 401,
+      "preview_text": "양연화 직원 1280440"
+    },
+    {
+      "name": "정만영",
+      "amount": "1278340",
+      "note": "",
+      "sort_order": 402,
+      "preview_text": "정만영 직원 1278340"
+    },
+    {
+      "name": "전홍익",
+      "amount": "1267500",
+      "note": "",
+      "sort_order": 403,
+      "preview_text": "전홍익 직원 1267500"
+    },
+    {
+      "name": "정성원",
+      "amount": "1225530",
+      "note": "",
+      "sort_order": 406,
+      "preview_text": "정성원 직원 1225530"
+    },
+    {
+      "name": "신정철",
+      "amount": "1144490",
+      "note": "",
+      "sort_order": 408,
+      "preview_text": "신정철 직원 1144490"
+    },
+    {
+      "name": "장준순",
+      "amount": "1120000",
+      "note": "",
+      "sort_order": 411,
+      "preview_text": "장준순 직원 1120000"
+    },
+    {
+      "name": "유성우",
+      "amount": "1104110",
+      "note": "",
+      "sort_order": 413,
+      "preview_text": "유성우 직원 1104110"
+    },
+    {
+      "name": "안정희",
+      "amount": "1100000",
+      "note": "",
+      "sort_order": 414,
+      "preview_text": "안정희 직원 1100000"
+    },
+    {
+      "name": "이향복",
+      "amount": "1076530",
+      "note": "",
+      "sort_order": 417,
+      "preview_text": "이향복 직원 1076530"
+    },
+    {
+      "name": "최성봉",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 424,
+      "preview_text": "최성봉 직원 1000000"
     },
     {
       "name": "차정민",
-      "amount": "1백만원",
+      "amount": "1000000",
       "note": "교수학습개발센터",
-      "sort_order": 20,
-      "preview_text": "차정민 직원 1백만원"
+      "sort_order": 426,
+      "preview_text": "차정민 직원 1000000"
+    },
+    {
+      "name": "지광수",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 429,
+      "preview_text": "지광수 직원 1000000"
+    },
+    {
+      "name": "정관",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 434,
+      "preview_text": "정관 직원 1000000"
+    },
+    {
+      "name": "전금실",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 435,
+      "preview_text": "전금실 직원 1000000"
+    },
+    {
+      "name": "이정숙",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 437,
+      "preview_text": "이정숙 직원 1000000"
+    },
+    {
+      "name": "이재연",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 438,
+      "preview_text": "이재연 직원 1000000"
+    },
+    {
+      "name": "이원우",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 440,
+      "preview_text": "이원우 직원 1000000"
+    },
+    {
+      "name": "이선아",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 442,
+      "preview_text": "이선아 직원 1000000"
+    },
+    {
+      "name": "윤복희",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 443,
+      "preview_text": "윤복희 직원 1000000"
+    },
+    {
+      "name": "유호정",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 444,
+      "preview_text": "유호정 직원 1000000"
+    },
+    {
+      "name": "방창식",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 457,
+      "preview_text": "방창식 직원 1000000"
+    },
+    {
+      "name": "박영종",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 458,
+      "preview_text": "박영종 직원 1000000"
+    },
+    {
+      "name": "박기문",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 460,
+      "preview_text": "박기문 직원 1000000"
+    },
+    {
+      "name": "모범서",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 463,
+      "preview_text": "모범서 직원 1000000"
+    },
+    {
+      "name": "김형준",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 467,
+      "preview_text": "김형준 직원 1000000"
+    },
+    {
+      "name": "김주선",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 469,
+      "preview_text": "김주선 직원 1000000"
+    },
+    {
+      "name": "김우용",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 471,
+      "preview_text": "김우용 직원 1000000"
+    },
+    {
+      "name": "고준석",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 476,
+      "preview_text": "고준석 직원 1000000"
+    },
+    {
+      "name": "고대연",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 477,
+      "preview_text": "고대연 직원 1000000"
+    },
+    {
+      "name": "강창국",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 479,
+      "preview_text": "강창국 직원 1000000"
+    },
+    {
+      "name": "김성진",
+      "amount": "906360",
+      "note": "",
+      "sort_order": 491,
+      "preview_text": "김성진 직원 906360"
+    },
+    {
+      "name": "조진숙",
+      "amount": "725740",
+      "note": "교수학습개발센터",
+      "sort_order": 496,
+      "preview_text": "조진숙 직원 725740"
+    },
+    {
+      "name": "전찬우",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 543,
+      "preview_text": "전찬우 직원 300000"
+    },
+    {
+      "name": "박정완",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 551,
+      "preview_text": "박정완 직원 300000"
+    },
+    {
+      "name": "박은혜",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 552,
+      "preview_text": "박은혜 직원 300000"
+    },
+    {
+      "name": "김지숙",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 554,
+      "preview_text": "김지숙 직원 300000"
+    },
+    {
+      "name": "김주봉",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 555,
+      "preview_text": "김주봉 직원 300000"
+    },
+    {
+      "name": "김례구",
+      "amount": "300000",
+      "note": "글로벌창업대학원",
+      "sort_order": 556,
+      "preview_text": "김례구 직원 300000"
+    },
+    {
+      "name": "강희주",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 557,
+      "preview_text": "강희주 직원 300000"
+    },
+    {
+      "name": "박소미",
+      "amount": "228600",
+      "note": "",
+      "sort_order": 567,
+      "preview_text": "박소미 직원 228600"
+    },
+    {
+      "name": "김주현",
+      "amount": "152640",
+      "note": "직장예비군연애",
+      "sort_order": 589,
+      "preview_text": "김주현 직원 152640"
+    },
+    {
+      "name": "하성일",
+      "amount": "151580",
+      "note": "라이프케어사이언스대학",
+      "sort_order": 590,
+      "preview_text": "하성일 직원 151580"
+    },
+    {
+      "name": "오유빈",
+      "amount": "131530",
+      "note": "외국인유학생지원센터",
+      "sort_order": 593,
+      "preview_text": "오유빈 직원 131530"
+    },
+    {
+      "name": "이동한",
+      "amount": "122420",
+      "note": "영림과",
+      "sort_order": 594,
+      "preview_text": "이동한 직원 122420"
+    },
+    {
+      "name": "박소라",
+      "amount": "50560",
+      "note": "",
+      "sort_order": 638,
+      "preview_text": "박소라 직원 50560"
+    },
+    {
+      "name": "김정수",
+      "amount": "39810",
+      "note": "",
+      "sort_order": 642,
+      "preview_text": "김정수 직원 39810"
+    },
+    {
+      "name": "정문종",
+      "amount": "27960",
+      "note": "산학협력단",
+      "sort_order": 644,
+      "preview_text": "정문종 직원 27960"
+    },
+    {
+      "name": "박희정",
+      "amount": "23430",
+      "note": "대학원교학팀",
+      "sort_order": 647,
+      "preview_text": "박희정 직원 23430"
+    },
+    {
+      "name": "이성원",
+      "amount": "19040",
+      "note": "학사지원팀",
+      "sort_order": 648,
+      "preview_text": "이성원 직원 19040"
+    },
+    {
+      "name": "조근택",
+      "amount": "17960",
+      "note": "RISE사업단",
+      "sort_order": 649,
+      "preview_text": "조근택 직원 17960"
+    },
+    {
+      "name": "이천무",
+      "amount": "12960",
+      "note": "대외협력팀",
+      "sort_order": 652,
+      "preview_text": "이천무 직원 12960"
+    },
+    {
+      "name": "백두정",
+      "amount": "11700",
+      "note": "창업보육센터",
+      "sort_order": 654,
+      "preview_text": "백두정 직원 11700"
+    },
+    {
+      "name": "전혜원",
+      "amount": "10000",
+      "note": "국제협력팀",
+      "sort_order": 655,
+      "preview_text": "전혜원 직원 10000"
+    },
+    {
+      "name": "김재효",
+      "amount": "7150",
+      "note": "기숙사",
+      "sort_order": 656,
+      "preview_text": "김재효 직원 7150"
+    },
+    {
+      "name": "박건영",
+      "amount": "4320",
+      "note": "대외협력팀",
+      "sort_order": 657,
+      "preview_text": "박건영 직원 4320"
+    },
+    {
+      "name": "신장식",
+      "amount": "3810",
+      "note": "학생지원팀",
+      "sort_order": 658,
+      "preview_text": "신장식 직원 3810"
     }
   ],
   "uncategorized": [
     {
-      "name": "고려기획",
-      "amount": "1백만원",
+      "name": "신한은행",
+      "amount": "525000000",
+      "note": "",
+      "sort_order": 1,
+      "preview_text": "신한은행  525000000"
+    },
+    {
+      "name": "씨제이",
+      "amount": "290000000",
+      "note": "",
+      "sort_order": 2,
+      "preview_text": "씨제이  290000000"
+    },
+    {
+      "name": "(주)메가마트",
+      "amount": "243000000",
+      "note": "",
+      "sort_order": 3,
+      "preview_text": "(주)메가마트  243000000"
+    },
+    {
+      "name": "재단법인)천만장학회",
+      "amount": "162248000",
       "note": "",
       "sort_order": 4,
-      "preview_text": "고려기획  1백만원"
+      "preview_text": "재단법인)천만장학회  162248000"
+    },
+    {
+      "name": "삼천리이에스",
+      "amount": "50000000",
+      "note": "",
+      "sort_order": 5,
+      "preview_text": "삼천리이에스  50000000"
+    },
+    {
+      "name": "(주)소로나",
+      "amount": "30000000",
+      "note": "",
+      "sort_order": 8,
+      "preview_text": "(주)소로나  30000000"
+    },
+    {
+      "name": "(주)서울커튼월",
+      "amount": "30000000",
+      "note": "",
+      "sort_order": 9,
+      "preview_text": "(주)서울커튼월  30000000"
+    },
+    {
+      "name": "유웨이어플라이",
+      "amount": "29805000",
+      "note": "",
+      "sort_order": 10,
+      "preview_text": "유웨이어플라이  29805000"
+    },
+    {
+      "name": "진학어플라이",
+      "amount": "22000000",
+      "note": "",
+      "sort_order": 11,
+      "preview_text": "진학어플라이  22000000"
+    },
+    {
+      "name": "(주)스튜디오지스타",
+      "amount": "18000000",
+      "note": "",
+      "sort_order": 14,
+      "preview_text": "(주)스튜디오지스타  18000000"
+    },
+    {
+      "name": "공학교육혁신센터 기부금 수입",
+      "amount": "15000000",
+      "note": "",
+      "sort_order": 16,
+      "preview_text": "공학교육혁신센터 기부금 수입  15000000"
+    },
+    {
+      "name": "(주)아론",
+      "amount": "15000000",
+      "note": "",
+      "sort_order": 18,
+      "preview_text": "(주)아론  15000000"
+    },
+    {
+      "name": "우리화훼종묘",
+      "amount": "12500000",
+      "note": "",
+      "sort_order": 23,
+      "preview_text": "우리화훼종묘  12500000"
+    },
+    {
+      "name": "깡우동",
+      "amount": "12000000",
+      "note": "",
+      "sort_order": 28,
+      "preview_text": "깡우동  12000000"
+    },
+    {
+      "name": "(주)대학내일",
+      "amount": "10500000",
+      "note": "",
+      "sort_order": 37,
+      "preview_text": "(주)대학내일  10500000"
+    },
+    {
+      "name": "코람코자산신탁",
+      "amount": "10000000",
+      "note": "",
+      "sort_order": 39,
+      "preview_text": "코람코자산신탁  10000000"
+    },
+    {
+      "name": "에스지이",
+      "amount": "10000000",
+      "note": "",
+      "sort_order": 43,
+      "preview_text": "에스지이  10000000"
+    },
+    {
+      "name": "새한테크놀로지",
+      "amount": "10000000",
+      "note": "",
+      "sort_order": 46,
+      "preview_text": "새한테크놀로지  10000000"
+    },
+    {
+      "name": "농구부후원금(삼성생명)",
+      "amount": "10000000",
+      "note": "",
+      "sort_order": 50,
+      "preview_text": "농구부후원금(삼성생명)  10000000"
+    },
+    {
+      "name": "(주)코람코자산",
+      "amount": "10000000",
+      "note": "",
+      "sort_order": 51,
+      "preview_text": "(주)코람코자산  10000000"
+    },
+    {
+      "name": "삼성전자(주)",
+      "amount": "8415000",
+      "note": "",
+      "sort_order": 59,
+      "preview_text": "삼성전자(주)  8415000"
+    },
+    {
+      "name": "제주유나이티드FC",
+      "amount": "8100000",
+      "note": "",
+      "sort_order": 62,
+      "preview_text": "제주유나이티드FC  8100000"
+    },
+    {
+      "name": "전북현대모터스FC",
+      "amount": "6750000",
+      "note": "",
+      "sort_order": 75,
+      "preview_text": "전북현대모터스FC  6750000"
+    },
+    {
+      "name": "주식회사 서호환경",
+      "amount": "6000000",
+      "note": "",
+      "sort_order": 88,
+      "preview_text": "주식회사 서호환경  6000000"
+    },
+    {
+      "name": "방송문화진흥회 초빙교수사업",
+      "amount": "6000000",
+      "note": "",
+      "sort_order": 91,
+      "preview_text": "방송문화진흥회 초빙교수사업  6000000"
+    },
+    {
+      "name": "(주)코토우",
+      "amount": "6000000",
+      "note": "",
+      "sort_order": 94,
+      "preview_text": "(주)코토우  6000000"
+    },
+    {
+      "name": "태양개발",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 116,
+      "preview_text": "태양개발  5000000"
+    },
+    {
+      "name": "주식회사넥서스비",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 119,
+      "preview_text": "주식회사넥서스비  5000000"
+    },
+    {
+      "name": "제주은행",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 120,
+      "preview_text": "제주은행  5000000"
+    },
+    {
+      "name": "음악회후원금(서울모테트합창단)",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 130,
+      "preview_text": "음악회후원금(서울모테트합창단)  5000000"
+    },
+    {
+      "name": "래어메디컬코리아",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 136,
+      "preview_text": "래어메디컬코리아  5000000"
+    },
+    {
+      "name": "광주은행강남",
+      "amount": "5000000",
+      "note": "",
+      "sort_order": 142,
+      "preview_text": "광주은행강남  5000000"
+    },
+    {
+      "name": "하이티넘",
+      "amount": "4235000",
+      "note": "",
+      "sort_order": 168,
+      "preview_text": "하이티넘  4235000"
+    },
+    {
+      "name": "고려기획",
+      "amount": "4000000",
+      "note": "",
+      "sort_order": 193,
+      "preview_text": "고려기획  4000000"
+    },
+    {
+      "name": "박물관 KTNG상상펀드 보조금 수입",
+      "amount": "3500000",
+      "note": "",
+      "sort_order": 212,
+      "preview_text": "박물관 KTNG상상펀드 보조금 수입  3500000"
+    },
+    {
+      "name": "광주시민프로축구단",
+      "amount": "3375000",
+      "note": "",
+      "sort_order": 221,
+      "preview_text": "광주시민프로축구단  3375000"
+    },
+    {
+      "name": "부천FC",
+      "amount": "3178800",
+      "note": "",
+      "sort_order": 231,
+      "preview_text": "부천FC  3178800"
+    },
+    {
+      "name": "핸디씨엔티",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 235,
+      "preview_text": "핸디씨엔티  3000000"
+    },
+    {
+      "name": "아마노코리아",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 249,
+      "preview_text": "아마노코리아  3000000"
+    },
+    {
+      "name": "벨칸토 6주년 음악회 후원금",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 250,
+      "preview_text": "벨칸토 6주년 음악회 후원금  3000000"
+    },
+    {
+      "name": "(주)알라딘커뮤니케",
+      "amount": "3000000",
+      "note": "",
+      "sort_order": 261,
+      "preview_text": "(주)알라딘커뮤니케  3000000"
+    },
+    {
+      "name": "(주)울텍",
+      "amount": "2800000",
+      "note": "",
+      "sort_order": 271,
+      "preview_text": "(주)울텍  2800000"
+    },
+    {
+      "name": "(사)안산시 시민프로축구단",
+      "amount": "2700000",
+      "note": "",
+      "sort_order": 276,
+      "preview_text": "(사)안산시 시민프로축구단  2700000"
+    },
+    {
+      "name": "YTN",
+      "amount": "2013759",
+      "note": "",
+      "sort_order": 318,
+      "preview_text": "YTN  2013759"
+    },
+    {
+      "name": "주식회사아이브이솔루션",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 326,
+      "preview_text": "주식회사아이브이솔루션  2000000"
+    },
+    {
+      "name": "주식회사씨엔제이",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 327,
+      "preview_text": "주식회사씨엔제이  2000000"
+    },
+    {
+      "name": "대한종합건설",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 345,
+      "preview_text": "대한종합건설  2000000"
+    },
+    {
+      "name": "다우엔지니어링",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 346,
+      "preview_text": "다우엔지니어링  2000000"
+    },
+    {
+      "name": "남양유업(주)",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 347,
+      "preview_text": "남양유업(주)  2000000"
+    },
+    {
+      "name": "(주)오성히바텍",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 356,
+      "preview_text": "(주)오성히바텍  2000000"
+    },
+    {
+      "name": "(주)가온텍",
+      "amount": "2000000",
+      "note": "",
+      "sort_order": 357,
+      "preview_text": "(주)가온텍  2000000"
+    },
+    {
+      "name": "이준시스템",
+      "amount": "1598066",
+      "note": "",
+      "sort_order": 380,
+      "preview_text": "이준시스템  1598066"
+    },
+    {
+      "name": "크라운제과",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 422,
+      "preview_text": "크라운제과  1000000"
+    },
+    {
+      "name": "지앤엘(주)",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 428,
+      "preview_text": "지앤엘(주)  1000000"
+    },
+    {
+      "name": "주식회사이엠다인",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 430,
+      "preview_text": "주식회사이엠다인  1000000"
+    },
+    {
+      "name": "유성전기이상범",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 445,
+      "preview_text": "유성전기이상범  1000000"
+    },
+    {
+      "name": "연극영화학부 후원금(한국토지주택공사)",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 447,
+      "preview_text": "연극영화학부 후원금(한국토지주택공사)  1000000"
+    },
+    {
+      "name": "에스타플렉스",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 448,
+      "preview_text": "에스타플렉스  1000000"
+    },
+    {
+      "name": "안덕양행 주식회사",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 450,
+      "preview_text": "안덕양행 주식회사  1000000"
+    },
+    {
+      "name": "수원대 기부금",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 453,
+      "preview_text": "수원대 기부금  1000000"
+    },
+    {
+      "name": "미래칠판",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 462,
+      "preview_text": "미래칠판  1000000"
+    },
+    {
+      "name": "데이터센스주식회사",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 464,
+      "preview_text": "데이터센스주식회사  1000000"
+    },
+    {
+      "name": "대림산업",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 465,
+      "preview_text": "대림산업  1000000"
+    },
+    {
+      "name": "계룡건설산업",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 478,
+      "preview_text": "계룡건설산업  1000000"
+    },
+    {
+      "name": "(씨유 미래혁신관) 강성오",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 480,
+      "preview_text": "(씨유 미래혁신관) 강성오  1000000"
+    },
+    {
+      "name": "(주)파인스닷컴",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 481,
+      "preview_text": "(주)파인스닷컴  1000000"
+    },
+    {
+      "name": "(주)자연지기",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 482,
+      "preview_text": "(주)자연지기  1000000"
+    },
+    {
+      "name": "(주)이앤피",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 483,
+      "preview_text": "(주)이앤피  1000000"
+    },
+    {
+      "name": "(주)에이아이티",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 484,
+      "preview_text": "(주)에이아이티  1000000"
+    },
+    {
+      "name": "(주)양지이엔지",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 485,
+      "preview_text": "(주)양지이엔지  1000000"
+    },
+    {
+      "name": "(주)바보",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 486,
+      "preview_text": "(주)바보  1000000"
+    },
+    {
+      "name": "(주)미스타파워",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 487,
+      "preview_text": "(주)미스타파워  1000000"
+    },
+    {
+      "name": "(주)그릭스",
+      "amount": "1000000",
+      "note": "",
+      "sort_order": 488,
+      "preview_text": "(주)그릭스  1000000"
+    },
+    {
+      "name": "(주)후니테크",
+      "amount": "900000",
+      "note": "",
+      "sort_order": 492,
+      "preview_text": "(주)후니테크  900000"
+    },
+    {
+      "name": "재학생 기부금 수입",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 513,
+      "preview_text": "재학생 기부금 수입  500000"
+    },
+    {
+      "name": "서울한강로타리",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 519,
+      "preview_text": "서울한강로타리  500000"
+    },
+    {
+      "name": "뮤직 앤 아트",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 520,
+      "preview_text": "뮤직 앤 아트  500000"
+    },
+    {
+      "name": "디라이트솔루션",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 521,
+      "preview_text": "디라이트솔루션  500000"
+    },
+    {
+      "name": "(주)엘림소테크놀러지",
+      "amount": "500000",
+      "note": "",
+      "sort_order": 527,
+      "preview_text": "(주)엘림소테크놀러지  500000"
+    },
+    {
+      "name": "에코피아(주)",
+      "amount": "400000",
+      "note": "",
+      "sort_order": 531,
+      "preview_text": "에코피아(주)  400000"
+    },
+    {
+      "name": "마이다스시스템(주)",
+      "amount": "400000",
+      "note": "",
+      "sort_order": 532,
+      "preview_text": "마이다스시스템(주)  400000"
+    },
+    {
+      "name": "카피앤커피",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 541,
+      "preview_text": "카피앤커피  300000"
+    },
+    {
+      "name": "(주)아바인코퍼레이션",
+      "amount": "300000",
+      "note": "",
+      "sort_order": 558,
+      "preview_text": "(주)아바인코퍼레이션  300000"
+    },
+    {
+      "name": "스캔플러스",
+      "amount": "200000",
+      "note": "",
+      "sort_order": 574,
+      "preview_text": "스캔플러스  200000"
+    },
+    {
+      "name": "(주)케이에이치정보교육원",
+      "amount": "200000",
+      "note": "",
+      "sort_order": 584,
+      "preview_text": "(주)케이에이치정보교육원  200000"
+    },
+    {
+      "name": "장서성발전기금",
+      "amount": "75000",
+      "note": "",
+      "sort_order": 636,
+      "preview_text": "장서성발전기금  75000"
+    },
+    {
+      "name": "리설매발전기금",
+      "amount": "75000",
+      "note": "",
+      "sort_order": 637,
+      "preview_text": "리설매발전기금  75000"
     }
   ]
 }
